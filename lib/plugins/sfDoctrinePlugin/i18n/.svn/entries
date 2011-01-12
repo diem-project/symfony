@@ -672,40 +672,6 @@ bschussek
 
 5922
 
-sf_admin.nl.xml
-file
-
-
-
-
-2011-01-12T14:23:17.000000Z
-525b37693f7645c0323e4cc28817acdd
-2010-12-01T10:18:34.735017Z
-31584
-fabien
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4034
-
 sf_admin.hr.xml
 file
 
@@ -739,6 +705,40 @@ fabien
 
 
 4425
+
+sf_admin.nl.xml
+file
+
+
+
+
+2011-01-12T14:23:17.000000Z
+525b37693f7645c0323e4cc28817acdd
+2010-12-01T10:18:34.735017Z
+31584
+fabien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4034
 
 sf_admin.pl.xml
 file
@@ -774,40 +774,6 @@ FabianLange
 
 5803
 
-sf_admin.no.xml
-file
-
-
-
-
-2011-01-12T14:23:17.000000Z
-a7993b2c5a7f79cf31791a5f51d0ae89
-2008-11-27T10:53:20.077847Z
-13399
-fabien
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3413
-
 sf_admin.hu.xml
 file
 
@@ -841,6 +807,40 @@ fabien
 
 
 4579
+
+sf_admin.no.xml
+file
+
+
+
+
+2011-01-12T14:23:17.000000Z
+a7993b2c5a7f79cf31791a5f51d0ae89
+2008-11-27T10:53:20.077847Z
+13399
+fabien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3413
 
 sf_admin.lt.xml
 file
@@ -944,40 +944,6 @@ fabien
 
 4448
 
-sf_admin.pt.xml
-file
-
-
-
-
-2011-01-12T14:23:17.000000Z
-fef6c702cdea97038465ad7bc27c3c31
-2008-11-27T10:53:20.077847Z
-13399
-fabien
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4549
-
 sf_admin.ca.xml
 file
 
@@ -1011,6 +977,40 @@ FabianLange
 
 
 5122
+
+sf_admin.pt.xml
+file
+
+
+
+
+2011-01-12T14:23:17.000000Z
+fef6c702cdea97038465ad7bc27c3c31
+2008-11-27T10:53:20.077847Z
+13399
+fabien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4549
 
 sf_admin.tr.xml
 file

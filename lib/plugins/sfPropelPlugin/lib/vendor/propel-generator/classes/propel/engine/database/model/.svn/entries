@@ -1,7 +1,7 @@
 10
 
 dir
-2142
+2145
 http://propel.mirror.svn.symfony-project.com/tags/1.4.2/generator/classes/propel/engine/database/model
 http://propel.mirror.svn.symfony-project.com
 
@@ -94,40 +94,6 @@ has-props
 
 2828
 
-Column.php
-file
-
-
-
-
-2011-01-12T14:23:13.000000Z
-8d3209542a7ef9a8b03fbfa8905c6ac2
-2010-03-15T09:16:23.460809Z
-1594
-francois
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-32609
-
 IDMethod.php
 file
 
@@ -161,6 +127,40 @@ has-props
 
 
 1635
+
+Column.php
+file
+
+
+
+
+2011-01-12T14:23:13.000000Z
+8d3209542a7ef9a8b03fbfa8905c6ac2
+2010-03-15T09:16:23.460809Z
+1594
+francois
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32609
 
 IdMethodParameter.php
 file
@@ -196,16 +196,16 @@ has-props
 
 2976
 
-Behavior.php
+PhpNameGenerator.php
 file
 
 
 
 
 2011-01-12T14:23:13.000000Z
-35a8d93800cba8c4076c4c93f9c5ebed
-2009-10-26T20:54:39.333354Z
-1262
+8d1720e9d4e52de7bb5715cc53b4cdf0
+2010-02-02T20:30:58.278220Z
+1514
 francois
 has-props
 
@@ -228,7 +228,7 @@ has-props
 
 
 
-4788
+5737
 
 ColumnDefaultValue.php
 file
@@ -264,16 +264,16 @@ has-props
 
 2889
 
-PhpNameGenerator.php
+Behavior.php
 file
 
 
 
 
 2011-01-12T14:23:13.000000Z
-8d1720e9d4e52de7bb5715cc53b4cdf0
-2010-02-02T20:30:58.278220Z
-1514
+35a8d93800cba8c4076c4c93f9c5ebed
+2009-10-26T20:54:39.333354Z
+1262
 francois
 has-props
 
@@ -296,7 +296,7 @@ has-props
 
 
 
-5737
+4788
 
 ForeignKey.php
 file
@@ -400,14 +400,14 @@ has-props
 
 2382
 
-Rule.php
+Index.php
 file
 
 
 
 
 2011-01-12T14:23:13.000000Z
-cecde0c3f52ca6f7d7d2b7b07547f54e
+0a705834f86dc9990887db5aa617144e
 2009-10-26T20:54:39.333354Z
 1262
 francois
@@ -432,7 +432,7 @@ has-props
 
 
 
-6017
+6773
 
 Domain.php
 file
@@ -468,14 +468,14 @@ has-props
 
 9237
 
-Index.php
+Rule.php
 file
 
 
 
 
 2011-01-12T14:23:13.000000Z
-0a705834f86dc9990887db5aa617144e
+cecde0c3f52ca6f7d7d2b7b07547f54e
 2009-10-26T20:54:39.333354Z
 1262
 francois
@@ -500,7 +500,7 @@ has-props
 
 
 
-6773
+6017
 
 NameFactory.php
 file

@@ -45,11 +45,11 @@ svn:wc:ra_dav:version-url
 V 62
 /!svn/ver/432/tags/2.3.3/classes/phing/RuntimeConfigurable.php
 END
-TaskContainer.php
+BuildListener.php
 K 25
 svn:wc:ra_dav:version-url
 V 56
-/!svn/ver/432/tags/2.3.3/classes/phing/TaskContainer.php
+/!svn/ver/432/tags/2.3.3/classes/phing/BuildListener.php
 END
 Phing.php
 K 25
@@ -57,11 +57,11 @@ svn:wc:ra_dav:version-url
 V 48
 /!svn/ver/432/tags/2.3.3/classes/phing/Phing.php
 END
-BuildListener.php
+TaskContainer.php
 K 25
 svn:wc:ra_dav:version-url
 V 56
-/!svn/ver/432/tags/2.3.3/classes/phing/BuildListener.php
+/!svn/ver/432/tags/2.3.3/classes/phing/TaskContainer.php
 END
 Project.php
 K 25
@@ -81,15 +81,15 @@ svn:wc:ra_dav:version-url
 V 57
 /!svn/ver/432/tags/2.3.3/classes/phing/BuildException.php
 END
-ConfigurationException.php
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/!svn/ver/432/tags/2.3.3/classes/phing/ConfigurationException.php
-END
 Target.php
 K 25
 svn:wc:ra_dav:version-url
 V 49
 /!svn/ver/432/tags/2.3.3/classes/phing/Target.php
+END
+ConfigurationException.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/432/tags/2.3.3/classes/phing/ConfigurationException.php
 END
