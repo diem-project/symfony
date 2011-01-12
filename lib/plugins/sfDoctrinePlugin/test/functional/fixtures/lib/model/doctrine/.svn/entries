@@ -1,7 +1,7 @@
 10
 
 dir
-31813
+31814
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/model/doctrine
 http://svn.symfony-project.com
 
@@ -672,40 +672,6 @@ has-props
 
 136
 
-BlogAuthorTable.class.php
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-64ae923c6e4de7d4e968fa829738d158
-2009-11-07T12:51:07.550901Z
-23668
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-53
-
 UniqueTestTable.class.php
 file
 
@@ -739,6 +705,40 @@ has-props
 
 
 131
+
+BlogAuthorTable.class.php
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+64ae923c6e4de7d4e968fa829738d158
+2009-11-07T12:51:07.550901Z
+23668
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+53
 
 ModelWithNumberInColumnTable.class.php
 file

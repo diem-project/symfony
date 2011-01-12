@@ -1,7 +1,7 @@
 10
 
 dir
-31813
+31814
 http://svn.symfony-project.com/branches/1.4/lib
 http://svn.symfony-project.com
 
@@ -77,25 +77,25 @@ dir
 command
 dir
 
-i18n
+test
 dir
 
 helper
 dir
 
-test
-dir
-
-log
+i18n
 dir
 
 plugins
 dir
 
-filter
+log
 dir
 
 addon
+dir
+
+filter
 dir
 
 routing
@@ -113,10 +113,10 @@ dir
 config
 dir
 
-action
+util
 dir
 
-util
+action
 dir
 
 user

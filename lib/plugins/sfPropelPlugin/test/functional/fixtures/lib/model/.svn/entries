@@ -1,7 +1,7 @@
 10
 
 dir
-31813
+31814
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfPropelPlugin/test/functional/fixtures/lib/model
 http://svn.symfony-project.com
 
@@ -94,40 +94,6 @@ has-props
 
 489
 
-MoviePeer.php
-file
-
-
-
-
-2011-01-12T19:08:42.000000Z
-c131dec4d1f8eee9e098fb4bc41ba430
-2008-04-05T00:43:40.436058Z
-8315
-dwhittle
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-167
-
 MovieI18nPeer.php
 file
 
@@ -162,17 +128,17 @@ has-props
 
 180
 
-ProductI18nPeer.php
+MoviePeer.php
 file
 
 
 
 
 2011-01-12T19:08:42.000000Z
-bb5ba0b30b631627a99ab94e04ce72bc
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
+c131dec4d1f8eee9e098fb4bc41ba430
+2008-04-05T00:43:40.436058Z
+8315
+dwhittle
 has-props
 
 
@@ -194,7 +160,7 @@ has-props
 
 
 
-209
+167
 
 ProductPeer.php
 file
@@ -229,6 +195,40 @@ has-props
 
 
 196
+
+ProductI18nPeer.php
+file
+
+
+
+
+2011-01-12T19:08:42.000000Z
+bb5ba0b30b631627a99ab94e04ce72bc
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+209
 
 ArticlePeer.php
 file
@@ -332,40 +332,6 @@ has-props
 
 182
 
-BookPeer.php
-file
-
-
-
-
-2011-01-12T19:08:42.000000Z
-f49b5862af0ea190c922d33b21a52b4e
-2007-09-16T00:53:55.343643Z
-5125
-dwhittle
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-164
-
 AuthorArticle.php
 file
 
@@ -399,6 +365,40 @@ has-props
 
 
 460
+
+BookPeer.php
+file
+
+
+
+
+2011-01-12T19:08:42.000000Z
+f49b5862af0ea190c922d33b21a52b4e
+2007-09-16T00:53:55.343643Z
+5125
+dwhittle
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+164
 
 Category.php
 file
@@ -468,40 +468,6 @@ has-props
 
 170
 
-MovieI18n.php
-file
-
-
-
-
-2011-01-12T19:08:42.000000Z
-0b3b1b70445513eb9192f111cdc07080
-2008-04-05T00:43:40.436058Z
-8315
-dwhittle
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-154
-
 Movie.php
 file
 
@@ -535,6 +501,40 @@ has-props
 
 
 141
+
+MovieI18n.php
+file
+
+
+
+
+2011-01-12T19:08:42.000000Z
+0b3b1b70445513eb9192f111cdc07080
+2008-04-05T00:43:40.436058Z
+8315
+dwhittle
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+154
 
 Product.php
 file

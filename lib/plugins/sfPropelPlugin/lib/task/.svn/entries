@@ -1,7 +1,7 @@
 10
 
 dir
-31813
+31814
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfPropelPlugin/lib/task
 http://svn.symfony-project.com
 
@@ -25,74 +25,6 @@ Kris.Wallsmith
 
 
 ee427ae8-e902-0410-961c-c3ed070cd9f9
-
-sfPropelBuildFiltersTask.class.php
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-7b5d47eb915c81ad9b6df94048401bed
-2009-11-14T16:10:57.377925Z
-23927
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3379
-
-sfPropelBuildAllTask.class.php
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-192cb77d0e10fee70cc0ff663c13f4d3
-2009-11-14T14:58:38.254908Z
-23922
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4985
 
 sfPropelBuildAllLoadTask.class.php
 file
@@ -128,6 +60,74 @@ has-props
 
 3560
 
+sfPropelBuildAllTask.class.php
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+192cb77d0e10fee70cc0ff663c13f4d3
+2009-11-14T14:58:38.254908Z
+23922
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4985
+
+sfPropelBuildFiltersTask.class.php
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+7b5d47eb915c81ad9b6df94048401bed
+2009-11-14T16:10:57.377925Z
+23927
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3379
+
 sfPropelGraphvizTask.class.php
 file
 
@@ -161,40 +161,6 @@ has-props
 
 
 1609
-
-sfPropelDataDumpTask.class.php
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-eac5535c19df30ef1aa5a16534fc8002
-2009-11-14T14:58:38.254908Z
-23922
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3465
 
 sfPropelBuildTask.class.php
 file
@@ -230,17 +196,17 @@ has-props
 
 8037
 
-sfPhing.class.php
+sfPropelDataDumpTask.class.php
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-27b382cf90b8548a35acfda7647318a3
-2009-11-16T17:52:14.706630Z
-24039
-Kris.Wallsmith
+eac5535c19df30ef1aa5a16534fc8002
+2009-11-14T14:58:38.254908Z
+23922
+fabien
 has-props
 
 
@@ -262,7 +228,7 @@ has-props
 
 
 
-1100
+3465
 
 sfPropelGenerateModuleTask.class.php
 file
@@ -297,6 +263,40 @@ has-props
 
 
 10098
+
+sfPhing.class.php
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+27b382cf90b8548a35acfda7647318a3
+2009-11-16T17:52:14.706630Z
+24039
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1100
 
 sfPhingListener.php
 file
@@ -366,40 +366,6 @@ has-props
 
 7567
 
-sfPropelConfigureDatabaseTask.class.php
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-c931584c56b923cfb641735c590c8349
-2009-09-11T12:06:21.565437Z
-21908
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4770
-
 sfPropelBuildFormsTask.class.php
 file
 
@@ -433,6 +399,40 @@ has-props
 
 
 3692
+
+sfPropelConfigureDatabaseTask.class.php
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+c931584c56b923cfb641735c590c8349
+2009-09-11T12:06:21.565437Z
+21908
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4770
 
 sfPropelDataLoadTask.class.php
 file

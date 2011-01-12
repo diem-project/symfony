@@ -1,7 +1,7 @@
 10
 
 dir
-31813
+31814
 http://svn.symfony-project.com/branches/1.4/lib/i18n
 http://svn.symfony-project.com
 
@@ -25,40 +25,6 @@ fabien
 
 
 ee427ae8-e902-0410-961c-c3ed070cd9f9
-
-sfMessageFormat.class.php
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-fa8c75acaa38670bef212caa6796d2e7
-2009-11-30T23:49:47.071555Z
-24622
-FabianLange
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6846
 
 sfMessageSource_XLIFF.class.php
 file
@@ -94,6 +60,40 @@ has-props
 
 11663
 
+sfMessageFormat.class.php
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+fa8c75acaa38670bef212caa6796d2e7
+2009-11-30T23:49:47.071555Z
+24622
+FabianLange
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6846
+
 sfCultureInfo.class.php
 file
 
@@ -128,6 +128,9 @@ has-props
 
 22283
 
+Gettext
+dir
+
 sfNumberFormat.class.php
 file
 
@@ -161,9 +164,6 @@ has-props
 
 
 9031
-
-Gettext
-dir
 
 sfChoiceFormat.class.php
 file

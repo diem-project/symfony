@@ -1,7 +1,7 @@
 10
 
 dir
-31813
+31814
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional
 http://svn.symfony-project.com
 
@@ -63,40 +63,6 @@ has-props
 Ticket
 dir
 
-RouteTest.php
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-c8ac61326f78ad96f78d49af211e709b
-2010-07-28T04:13:21.541154Z
-30442
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2073
-
 PagerTest.php
 file
 
@@ -131,14 +97,14 @@ has-props
 
 2473
 
-sfDoctrineRecordTest.php
+RouteTest.php
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-104d74ec8e3465eaaa560b72675626ad
+c8ac61326f78ad96f78d49af211e709b
 2010-07-28T04:13:21.541154Z
 30442
 Kris.Wallsmith
@@ -163,7 +129,7 @@ has-props
 
 
 
-2490
+2073
 
 ActionRedirectTest.php
 file
@@ -198,6 +164,40 @@ has-props
 
 
 654
+
+sfDoctrineRecordTest.php
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+104d74ec8e3465eaaa560b72675626ad
+2010-07-28T04:13:21.541154Z
+30442
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2490
 
 FormTest.php
 file

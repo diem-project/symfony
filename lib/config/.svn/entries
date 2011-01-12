@@ -1,7 +1,7 @@
 10
 
 dir
-31813
+31814
 http://svn.symfony-project.com/branches/1.4/lib/config
 http://svn.symfony-project.com
 
@@ -60,40 +60,6 @@ has-props
 
 5542
 
-sfProjectConfiguration.class.php
-file
-
-
-
-
-2011-01-12T19:08:40.000000Z
-ecd6d75cdf2ba8f5472575e612371984
-2010-01-26T13:38:49.545696Z
-27191
-FabianLange
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-16698
-
 sfViewConfigHandler.class.php
 file
 
@@ -127,6 +93,40 @@ has-props
 
 
 10705
+
+sfProjectConfiguration.class.php
+file
+
+
+
+
+2011-01-12T19:08:40.000000Z
+ecd6d75cdf2ba8f5472575e612371984
+2010-01-26T13:38:49.545696Z
+27191
+FabianLange
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16698
 
 sfSimpleYamlConfigHandler.class.php
 file
@@ -162,40 +162,6 @@ has-props
 
 1358
 
-sfDefineEnvironmentConfigHandler.class.php
-file
-
-
-
-
-2011-01-12T19:08:40.000000Z
-f362b68337d3bec16d56a478c4d4d5f9
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4096
-
 sfConfigHandler.class.php
 file
 
@@ -229,6 +195,40 @@ has-props
 
 
 3682
+
+sfDefineEnvironmentConfigHandler.class.php
+file
+
+
+
+
+2011-01-12T19:08:40.000000Z
+f362b68337d3bec16d56a478c4d4d5f9
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4096
 
 sfConfig.class.php
 file

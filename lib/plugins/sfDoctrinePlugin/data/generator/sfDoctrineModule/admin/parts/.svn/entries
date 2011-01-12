@@ -1,7 +1,7 @@
 10
 
 dir
-31813
+31814
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/parts
 http://svn.symfony-project.com
 
@@ -60,40 +60,6 @@ has-props
 
 3341
 
-processFormAction.php
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-a7b05817343a7837ddbb7959a69d8b6a
-2009-12-01T02:11:40.256489Z
-24634
-Jonathan.Wage
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1679
-
 deleteAction.php
 file
 
@@ -127,6 +93,40 @@ has-props
 
 
 442
+
+processFormAction.php
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+a7b05817343a7837ddbb7959a69d8b6a
+2009-12-01T02:11:40.256489Z
+24634
+Jonathan.Wage
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1679
 
 createAction.php
 file
@@ -400,16 +400,16 @@ has-props
 
 454
 
-sortingAction.php
+editAction.php
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-06bd3ec318347988239f1def2aac181d
-2010-08-27T19:29:21.281295Z
-30774
+a4fab933268d1601bfff828871f054e9
+2009-11-12T11:07:44.003356Z
+23810
 Kris.Wallsmith
 has-props
 
@@ -432,7 +432,7 @@ has-props
 
 
 
-1046
+241
 
 filterAction.php
 file
@@ -468,16 +468,16 @@ has-props
 
 723
 
-editAction.php
+sortingAction.php
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-a4fab933268d1601bfff828871f054e9
-2009-11-12T11:07:44.003356Z
-23810
+06bd3ec318347988239f1def2aac181d
+2010-08-27T19:29:21.281295Z
+30774
 Kris.Wallsmith
 has-props
 
@@ -500,7 +500,7 @@ has-props
 
 
 
-241
+1046
 
 newAction.php
 file

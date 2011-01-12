@@ -1,7 +1,7 @@
 10
 
 dir
-31813
+31814
 http://svn.symfony-project.com/branches/1.4/lib/task
 http://svn.symfony-project.com
 
@@ -26,10 +26,13 @@ fabien
 
 ee427ae8-e902-0410-961c-c3ed070cd9f9
 
+i18n
+dir
+
 test
 dir
 
-i18n
+app
 dir
 
 sfBaseTask.class.php
@@ -66,13 +69,10 @@ has-props
 
 11585
 
-app
+configure
 dir
 
 log
-dir
-
-configure
 dir
 
 sfTask.class.php

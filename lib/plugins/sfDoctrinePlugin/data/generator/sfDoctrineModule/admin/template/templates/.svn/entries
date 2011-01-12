@@ -1,7 +1,7 @@
 10
 
 dir
-31813
+31814
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/admin/template/templates
 http://svn.symfony-project.com
 
@@ -332,14 +332,14 @@ has-props
 
 1658
 
-_list.php
+_filters_field.php
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-71535ca40e2e5d02c3e423c4b40047cb
+33fcd5a00b8ec6902a71c706349128e7
 2009-11-12T11:07:44.003356Z
 23810
 Kris.Wallsmith
@@ -364,7 +364,7 @@ has-props
 
 
 
-3215
+1048
 
 _form_header.php
 file
@@ -400,14 +400,14 @@ has-props
 
 0
 
-_filters_field.php
+_list.php
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-33fcd5a00b8ec6902a71c706349128e7
+71535ca40e2e5d02c3e423c4b40047cb
 2009-11-12T11:07:44.003356Z
 23810
 Kris.Wallsmith
@@ -432,7 +432,7 @@ has-props
 
 
 
-1048
+3215
 
 _list_td_tabular.php
 file

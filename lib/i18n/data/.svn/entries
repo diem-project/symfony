@@ -1,7 +1,7 @@
 10
 
 dir
-31813
+31814
 http://svn.symfony-project.com/branches/1.4/lib/i18n/data
 http://svn.symfony-project.com
 
@@ -60,40 +60,6 @@ FabianLange
 
 1325
 
-sk.dat
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-a9015ad5d8061242914099ab47477c0f
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-39759
-
 ar_SY.dat
 file
 
@@ -127,6 +93,40 @@ FabianLange
 
 
 1276
+
+sk.dat
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+a9015ad5d8061242914099ab47477c0f
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+39759
 
 ar_LB.dat
 file
@@ -264,40 +264,6 @@ FabianLange
 
 191
 
-ha.dat
-file
-
-
-
-
-2011-01-12T19:08:40.000000Z
-2a378af005a8f16d64cff9adb5d63646
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2417
-
 zu_ZA.dat
 file
 
@@ -332,48 +298,14 @@ FabianLange
 
 31
 
-km_KH.dat
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-67aa7be97600ebab58e1a81516152264
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-31
-
-en_PH.dat
+ha.dat
 file
 
 
 
 
 2011-01-12T19:08:40.000000Z
-1d607a4f0deb6b6d980464415ec5fd55
+2a378af005a8f16d64cff9adb5d63646
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -398,7 +330,41 @@ FabianLange
 
 
 
-231
+2417
+
+sw.dat
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+31f522fb29a554fa11e0eaf43c8e93ef
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3609
 
 es_AR.dat
 file
@@ -434,14 +400,14 @@ FabianLange
 
 753
 
-sw.dat
+en_PH.dat
 file
 
 
 
 
-2011-01-12T19:08:41.000000Z
-31f522fb29a554fa11e0eaf43c8e93ef
+2011-01-12T19:08:40.000000Z
+1d607a4f0deb6b6d980464415ec5fd55
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -466,7 +432,41 @@ FabianLange
 
 
 
-3609
+231
+
+km_KH.dat
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+67aa7be97600ebab58e1a81516152264
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31
 
 en_US_POSIX.dat
 file
@@ -1046,40 +1046,6 @@ FabianLange
 
 4870
 
-es_UY.dat
-file
-
-
-
-
-2011-01-12T19:08:40.000000Z
-a20c6eb92dc128e1ba3eb3227a34cd4c
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-226
-
 kok.dat
 file
 
@@ -1113,6 +1079,40 @@ FabianLange
 
 
 7436
+
+es_UY.dat
+file
+
+
+
+
+2011-01-12T19:08:40.000000Z
+a20c6eb92dc128e1ba3eb3227a34cd4c
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+226
 
 tr.dat
 file
@@ -1148,14 +1148,14 @@ FabianLange
 
 69834
 
-af.dat
+fr_MC.dat
 file
 
 
 
 
 2011-01-12T19:08:40.000000Z
-a30092129c9b6495e4b01a546b42baaa
+09abd5ee10b41168af0e33f4ad5c8892
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -1180,7 +1180,7 @@ FabianLange
 
 
 
-6769
+31
 
 en_MH.dat
 file
@@ -1216,14 +1216,14 @@ FabianLange
 
 120
 
-fr_MC.dat
+af.dat
 file
 
 
 
 
 2011-01-12T19:08:40.000000Z
-09abd5ee10b41168af0e33f4ad5c8892
+a30092129c9b6495e4b01a546b42baaa
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -1248,7 +1248,7 @@ FabianLange
 
 
 
-31
+6769
 
 tr_TR.dat
 file
@@ -1352,40 +1352,6 @@ FabianLange
 
 38
 
-ar.dat
-file
-
-
-
-
-2011-01-12T19:08:40.000000Z
-1ccea83c5a552c456c24fa5a7980fd10
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-78510
-
 en_MT.dat
 file
 
@@ -1420,16 +1386,50 @@ FabianLange
 
 603
 
-mr_IN.dat
+ar.dat
+file
+
+
+
+
+2011-01-12T19:08:40.000000Z
+1ccea83c5a552c456c24fa5a7980fd10
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+78510
+
+uz_AF.dat
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-917fa57223a15c6f1240fede9f7cb7f4
-2009-10-27T21:49:06.022763Z
-23398
+016c9457b049044bfdb2969bde88bd0a
+2009-01-29T23:38:21.010960Z
+15083
 FabianLange
 
 
@@ -1452,75 +1452,7 @@ FabianLange
 
 
 
-179
-
-bn_BD.dat
-file
-
-
-
-
-2011-01-12T19:08:40.000000Z
-5dfe4cebf1d5b94e0859cee92e93908f
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-31
-
-af_NA.dat
-file
-
-
-
-
-2011-01-12T19:08:40.000000Z
-0e76b21b1c1aaf89d45a7dc6185f2cc4
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-134
+38
 
 az_AZ.dat
 file
@@ -1556,16 +1488,16 @@ FabianLange
 
 38
 
-uz_AF.dat
+af_NA.dat
 file
 
 
 
 
-2011-01-12T19:08:41.000000Z
-016c9457b049044bfdb2969bde88bd0a
-2009-01-29T23:38:21.010960Z
-15083
+2011-01-12T19:08:40.000000Z
+0e76b21b1c1aaf89d45a7dc6185f2cc4
+2009-10-27T21:49:06.022763Z
+23398
 FabianLange
 
 
@@ -1588,7 +1520,75 @@ FabianLange
 
 
 
-38
+134
+
+bn_BD.dat
+file
+
+
+
+
+2011-01-12T19:08:40.000000Z
+5dfe4cebf1d5b94e0859cee92e93908f
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31
+
+mr_IN.dat
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+917fa57223a15c6f1240fede9f7cb7f4
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+179
 
 sr_ME.dat
 file
@@ -1760,40 +1760,6 @@ FabianLange
 
 17406
 
-az.dat
-file
-
-
-
-
-2011-01-12T19:08:40.000000Z
-41315b7149fa0518d38e06c044d888b9
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-66237
-
 zh_Hans_CN.dat
 file
 
@@ -1828,14 +1794,14 @@ FabianLange
 
 120
 
-it.dat
+az.dat
 file
 
 
 
 
-2011-01-12T19:08:41.000000Z
-60cf5355f4c204a49741964632f21482
+2011-01-12T19:08:40.000000Z
+41315b7149fa0518d38e06c044d888b9
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -1860,7 +1826,7 @@ FabianLange
 
 
 
-52626
+66237
 
 ur_IN.dat
 file
@@ -1896,14 +1862,14 @@ FabianLange
 
 292
 
-fr_BE.dat
+it.dat
 file
 
 
 
 
-2011-01-12T19:08:40.000000Z
-b0a1eff46518f657b56380543dd0e100
+2011-01-12T19:08:41.000000Z
+60cf5355f4c204a49741964632f21482
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -1928,7 +1894,7 @@ FabianLange
 
 
 
-554
+52626
 
 sr_Cyrl.dat
 file
@@ -1963,6 +1929,40 @@ FabianLange
 
 
 72
+
+fr_BE.dat
+file
+
+
+
+
+2011-01-12T19:08:40.000000Z
+b0a1eff46518f657b56380543dd0e100
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+554
 
 hy_AM_REVISED.dat
 file
@@ -2100,40 +2100,6 @@ FabianLange
 
 471
 
-am_ET.dat
-file
-
-
-
-
-2011-01-12T19:08:40.000000Z
-41d6081665523c903f12fee0724d7d93
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-120
-
 es_CL.dat
 file
 
@@ -2167,6 +2133,40 @@ FabianLange
 
 
 833
+
+am_ET.dat
+file
+
+
+
+
+2011-01-12T19:08:40.000000Z
+41d6081665523c903f12fee0724d7d93
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+120
 
 pa_IN.dat
 file
@@ -4344,40 +4344,6 @@ FabianLange
 
 93171
 
-as.dat
-file
-
-
-
-
-2011-01-12T19:08:40.000000Z
-ebeeb2e8862d4d90a915e7a22904da32
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4607
-
 az_Cyrl.dat
 file
 
@@ -4411,6 +4377,40 @@ FabianLange
 
 
 1517
+
+as.dat
+file
+
+
+
+
+2011-01-12T19:08:40.000000Z
+ebeeb2e8862d4d90a915e7a22904da32
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4607
 
 ga_IE.dat
 file
@@ -4446,40 +4446,6 @@ FabianLange
 
 120
 
-ml.dat
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-be5eab47420e8941f01d8e54ca03ca4f
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-166475
-
 hu_HU.dat
 file
 
@@ -4514,14 +4480,14 @@ FabianLange
 
 31
 
-sl_SI.dat
+ml.dat
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-851100f8a141ca9368c103bcee64ef3e
+be5eab47420e8941f01d8e54ca03ca4f
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -4546,7 +4512,7 @@ FabianLange
 
 
 
-31
+166475
 
 en_US.dat
 file
@@ -4581,6 +4547,40 @@ FabianLange
 
 
 191
+
+sl_SI.dat
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+851100f8a141ca9368c103bcee64ef3e
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31
 
 ar_BH.dat
 file
@@ -4650,14 +4650,14 @@ FabianLange
 
 2097
 
-ro_RO.dat
+bo_CN.dat
 file
 
 
 
 
-2011-01-12T19:08:41.000000Z
-1652f19b77c2ee5557f6a0e0802e234a
+2011-01-12T19:08:40.000000Z
+366f0163227036e48773c7b55041086c
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -4682,41 +4682,7 @@ FabianLange
 
 
 
-31
-
-mt.dat
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-9becc2729eb9ca532966741809611b82
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-24229
+120
 
 he_IL.dat
 file
@@ -4752,14 +4718,14 @@ FabianLange
 
 179
 
-bo_CN.dat
+mt.dat
 file
 
 
 
 
-2011-01-12T19:08:40.000000Z
-366f0163227036e48773c7b55041086c
+2011-01-12T19:08:41.000000Z
+9becc2729eb9ca532966741809611b82
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -4784,7 +4750,41 @@ FabianLange
 
 
 
-120
+24229
+
+ro_RO.dat
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+1652f19b77c2ee5557f6a0e0802e234a
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31
 
 zh_Hans_SG.dat
 file
@@ -4820,40 +4820,6 @@ FabianLange
 
 422
 
-fa.dat
-file
-
-
-
-
-2011-01-12T19:08:40.000000Z
-a459aea2469ed080480091ccc1231739
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-74197
-
 ur.dat
 file
 
@@ -4888,14 +4854,14 @@ FabianLange
 
 7729
 
-az_Latn.dat
+fa.dat
 file
 
 
 
 
 2011-01-12T19:08:40.000000Z
-ceafbe0241ce96e0f317f759245f4509
+a459aea2469ed080480091ccc1231739
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -4920,7 +4886,7 @@ FabianLange
 
 
 
-72
+74197
 
 en_JM.dat
 file
@@ -4955,6 +4921,40 @@ FabianLange
 
 
 350
+
+az_Latn.dat
+file
+
+
+
+
+2011-01-12T19:08:40.000000Z
+ceafbe0241ce96e0f317f759245f4509
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+72
 
 en_BW.dat
 file
@@ -5058,14 +5058,14 @@ FabianLange
 
 864
 
-de_BE.dat
+uz.dat
 file
 
 
 
 
-2011-01-12T19:08:40.000000Z
-c31bd035712d568f89331c0a3e22dd0c
+2011-01-12T19:08:41.000000Z
+b8f3edffce0b97266a7977748ad1eee8
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -5090,7 +5090,7 @@ FabianLange
 
 
 
-613
+253
 
 fi.dat
 file
@@ -5126,14 +5126,14 @@ FabianLange
 
 82998
 
-uz.dat
+de_BE.dat
 file
 
 
 
 
-2011-01-12T19:08:41.000000Z
-b8f3edffce0b97266a7977748ad1eee8
+2011-01-12T19:08:40.000000Z
+c31bd035712d568f89331c0a3e22dd0c
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -5158,7 +5158,7 @@ FabianLange
 
 
 
-253
+613
 
 bn.dat
 file
@@ -5194,40 +5194,6 @@ FabianLange
 
 91882
 
-eu_ES.dat
-file
-
-
-
-
-2011-01-12T19:08:40.000000Z
-32ba361243d521c7e2257ad2cf46c44f
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-31
-
 th_TH_TRADITIONAL.dat
 file
 
@@ -5262,14 +5228,14 @@ FabianLange
 
 56
 
-gu_IN.dat
+eu_ES.dat
 file
 
 
 
 
 2011-01-12T19:08:40.000000Z
-11542e21fbcdfba76f923f3dcd6369be
+32ba361243d521c7e2257ad2cf46c44f
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -5294,7 +5260,7 @@ FabianLange
 
 
 
-179
+31
 
 es_GT.dat
 file
@@ -5329,6 +5295,40 @@ FabianLange
 
 
 648
+
+gu_IN.dat
+file
+
+
+
+
+2011-01-12T19:08:40.000000Z
+11542e21fbcdfba76f923f3dcd6369be
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+179
 
 ti_ER.dat
 file
@@ -5432,14 +5432,14 @@ FabianLange
 
 31
 
-sk_SK.dat
+fr_CA.dat
 file
 
 
 
 
-2011-01-12T19:08:41.000000Z
-1652f19b77c2ee5557f6a0e0802e234a
+2011-01-12T19:08:40.000000Z
+a7c98657e8b6ea052a9e65c9ded64a7d
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -5464,41 +5464,7 @@ FabianLange
 
 
 
-31
-
-kok_IN.dat
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-ffd9567455e3b6d723fdfcd5fbd7910f
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-179
+2527
 
 ha_NE.dat
 file
@@ -5534,14 +5500,14 @@ FabianLange
 
 38
 
-fr_CA.dat
+kok_IN.dat
 file
 
 
 
 
-2011-01-12T19:08:40.000000Z
-a7c98657e8b6ea052a9e65c9ded64a7d
+2011-01-12T19:08:41.000000Z
+ffd9567455e3b6d723fdfcd5fbd7910f
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -5566,7 +5532,41 @@ FabianLange
 
 
 
-2527
+179
+
+sk_SK.dat
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+1652f19b77c2ee5557f6a0e0802e234a
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31
 
 ru_UA.dat
 file
@@ -5602,14 +5602,14 @@ FabianLange
 
 761
 
-no.dat
+uz_UZ.dat
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-be469e60de3127f3357f9b4c7356fe65
+897560f6927865cdb1531b7cd8f6b42f
 2009-01-29T23:38:21.010960Z
 15083
 FabianLange
@@ -5634,7 +5634,7 @@ FabianLange
 
 
 
-29
+38
 
 fi_FI.dat
 file
@@ -5670,14 +5670,14 @@ FabianLange
 
 31
 
-uz_UZ.dat
+no.dat
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-897560f6927865cdb1531b7cd8f6b42f
+be469e60de3127f3357f9b4c7356fe65
 2009-01-29T23:38:21.010960Z
 15083
 FabianLange
@@ -5702,41 +5702,7 @@ FabianLange
 
 
 
-38
-
-he2.dat
-file
-
-
-
-
-2011-01-12T19:08:40.000000Z
-71f90f3faf49853804fe393f6412e35c
-2009-06-04T14:58:58.036084Z
-18929
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-55120
+29
 
 vi.dat
 file
@@ -5772,16 +5738,16 @@ FabianLange
 
 21075
 
-be_BY.dat
+he2.dat
 file
 
 
 
 
 2011-01-12T19:08:40.000000Z
-1652f19b77c2ee5557f6a0e0802e234a
-2009-10-27T21:49:06.022763Z
-23398
+71f90f3faf49853804fe393f6412e35c
+2009-06-04T14:58:58.036084Z
+18929
 FabianLange
 
 
@@ -5804,16 +5770,16 @@ FabianLange
 
 
 
-31
+55120
 
-et_EE.dat
+be_BY.dat
 file
 
 
 
 
 2011-01-12T19:08:40.000000Z
-d74192dc538ccafbd11ca68013282ae9
+1652f19b77c2ee5557f6a0e0802e234a
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -5873,6 +5839,40 @@ FabianLange
 
 
 86134
+
+et_EE.dat
+file
+
+
+
+
+2011-01-12T19:08:40.000000Z
+d74192dc538ccafbd11ca68013282ae9
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31
 
 ca.dat
 file
@@ -6044,40 +6044,6 @@ FabianLange
 
 179
 
-de_CH.dat
-file
-
-
-
-
-2011-01-12T19:08:40.000000Z
-8da74b048df1e80681a78e2511a59077
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-935
-
 gl.dat
 file
 
@@ -6111,6 +6077,40 @@ FabianLange
 
 
 28261
+
+de_CH.dat
+file
+
+
+
+
+2011-01-12T19:08:40.000000Z
+8da74b048df1e80681a78e2511a59077
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+935
 
 kk.dat
 file
@@ -6180,40 +6180,6 @@ FabianLange
 
 31
 
-ko.dat
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-120038a620bdd442e20994f029fc91ac
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-82419
-
 sr_CS.dat
 file
 
@@ -6248,14 +6214,14 @@ FabianLange
 
 38
 
-si.dat
+ko.dat
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-7ca29b89a420710a891ea63ff82807fb
+120038a620bdd442e20994f029fc91ac
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -6280,7 +6246,7 @@ FabianLange
 
 
 
-3559
+82419
 
 cy.dat
 file
@@ -6316,6 +6282,40 @@ FabianLange
 
 7711
 
+si.dat
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+7ca29b89a420710a891ea63ff82807fb
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3559
+
 es_EC.dat
 file
 
@@ -6350,40 +6350,6 @@ FabianLange
 
 580
 
-nl_BE.dat
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-94374701cabca42b1f4cfaa670972be2
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-719
-
 es_PY.dat
 file
 
@@ -6417,6 +6383,40 @@ FabianLange
 
 
 148
+
+nl_BE.dat
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+94374701cabca42b1f4cfaa670972be2
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+719
 
 or.dat
 file
@@ -6486,14 +6486,14 @@ FabianLange
 
 1254
 
-cy_GB.dat
+uz_Arab.dat
 file
 
 
 
 
-2011-01-12T19:08:40.000000Z
-a5db74579dbf1ea2c5fd012e263da13d
+2011-01-12T19:08:41.000000Z
+bab7c2951419dce2d70aad020fe344fb
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -6518,7 +6518,7 @@ FabianLange
 
 
 
-31
+631
 
 sq.dat
 file
@@ -6554,14 +6554,14 @@ FabianLange
 
 8566
 
-uz_Arab.dat
+cy_GB.dat
 file
 
 
 
 
-2011-01-12T19:08:41.000000Z
-bab7c2951419dce2d70aad020fe344fb
+2011-01-12T19:08:40.000000Z
+a5db74579dbf1ea2c5fd012e263da13d
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -6586,7 +6586,7 @@ FabianLange
 
 
 
-631
+31
 
 zh_Hans_MO.dat
 file
@@ -6622,7 +6622,7 @@ FabianLange
 
 119
 
-sh_YU.dat
+sr_Latn_CS.dat
 file
 
 
@@ -6656,7 +6656,7 @@ FabianLange
 
 38
 
-sr_Latn_CS.dat
+sh_YU.dat
 file
 
 
@@ -6826,14 +6826,14 @@ FabianLange
 
 31
 
-mk_MK.dat
+es_ES.dat
 file
 
 
 
 
-2011-01-12T19:08:41.000000Z
-a5db74579dbf1ea2c5fd012e263da13d
+2011-01-12T19:08:40.000000Z
+7b7e5844a17c9339cfbeb6dd9e9543c0
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -6860,14 +6860,14 @@ FabianLange
 
 31
 
-es_ES.dat
+mk_MK.dat
 file
 
 
 
 
-2011-01-12T19:08:40.000000Z
-7b7e5844a17c9339cfbeb6dd9e9543c0
+2011-01-12T19:08:41.000000Z
+a5db74579dbf1ea2c5fd012e263da13d
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -7132,40 +7132,6 @@ FabianLange
 
 317
 
-no_NO_NY.dat
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-7a69790f67da2fea522d68db00a7ab82
-2009-01-29T23:38:21.010960Z
-15083
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-32
-
 es_US.dat
 file
 
@@ -7199,6 +7165,40 @@ FabianLange
 
 
 891
+
+no_NO_NY.dat
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+7a69790f67da2fea522d68db00a7ab82
+2009-01-29T23:38:21.010960Z
+15083
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32
 
 haw.dat
 file
@@ -7370,6 +7370,40 @@ FabianLange
 
 662
 
+es_BO.dat
+file
+
+
+
+
+2011-01-12T19:08:40.000000Z
+e1414197d77431755d1f6f53b603f504
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31
+
 en_AU.dat
 file
 
@@ -7404,14 +7438,14 @@ FabianLange
 
 2498
 
-es_BO.dat
+fo_FO.dat
 file
 
 
 
 
 2011-01-12T19:08:40.000000Z
-e1414197d77431755d1f6f53b603f504
+7aea9b480e1058bc1082a980171c7fb9
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -7436,7 +7470,7 @@ FabianLange
 
 
 
-31
+120
 
 de_LU.dat
 file
@@ -7472,14 +7506,14 @@ FabianLange
 
 116
 
-fo_FO.dat
+uz_Latn_UZ.dat
 file
 
 
 
 
-2011-01-12T19:08:40.000000Z
-7aea9b480e1058bc1082a980171c7fb9
+2011-01-12T19:08:41.000000Z
+b2ce7938d52b193ba794b9a41ae86dd6
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -7539,40 +7573,6 @@ FabianLange
 
 
 38
-
-uz_Latn_UZ.dat
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-b2ce7938d52b193ba794b9a41ae86dd6
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-120
 
 fa_AF.dat
 file
@@ -7744,40 +7744,6 @@ FabianLange
 
 84964
 
-ca_ES.dat
-file
-
-
-
-
-2011-01-12T19:08:40.000000Z
-d74192dc538ccafbd11ca68013282ae9
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-31
-
 zh_SG.dat
 file
 
@@ -7811,6 +7777,40 @@ FabianLange
 
 
 38
+
+ca_ES.dat
+file
+
+
+
+
+2011-01-12T19:08:40.000000Z
+d74192dc538ccafbd11ca68013282ae9
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31
 
 uk.dat
 file
@@ -7880,40 +7880,6 @@ FabianLange
 
 261
 
-hi_IN.dat
-file
-
-
-
-
-2011-01-12T19:08:40.000000Z
-944752f1ae3d74f0d16310e3683489fe
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-179
-
 sr_BA.dat
 file
 
@@ -7947,6 +7913,40 @@ FabianLange
 
 
 38
+
+hi_IN.dat
+file
+
+
+
+
+2011-01-12T19:08:40.000000Z
+944752f1ae3d74f0d16310e3683489fe
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+179
 
 bg.dat
 file
@@ -8016,40 +8016,6 @@ FabianLange
 
 31
 
-ja.dat
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-b7a666706a4b2ee983b8756c11e3adaa
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-77628
-
 ar_JO.dat
 file
 
@@ -8084,16 +8050,16 @@ FabianLange
 
 1173
 
-en_RH.dat
+ja.dat
 file
 
 
 
 
-2011-01-12T19:08:40.000000Z
-259e3854bf669331bb602059855701f8
-2009-01-29T23:38:21.010960Z
-15083
+2011-01-12T19:08:41.000000Z
+b7a666706a4b2ee983b8756c11e3adaa
+2009-10-27T21:49:06.022763Z
+23398
 FabianLange
 
 
@@ -8116,7 +8082,7 @@ FabianLange
 
 
 
-32
+77628
 
 es_CR.dat
 file
@@ -8151,6 +8117,40 @@ FabianLange
 
 
 31
+
+en_RH.dat
+file
+
+
+
+
+2011-01-12T19:08:40.000000Z
+259e3854bf669331bb602059855701f8
+2009-01-29T23:38:21.010960Z
+15083
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32
 
 fr_FR.dat
 file
@@ -8322,14 +8322,14 @@ FabianLange
 
 31
 
-pl_PL.dat
+sv_FI.dat
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-d74192dc538ccafbd11ca68013282ae9
+40a6c3b588302c2130b04e6bd802dd80
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -8354,7 +8354,7 @@ FabianLange
 
 
 
-31
+251
 
 ha_Latn.dat
 file
@@ -8390,48 +8390,14 @@ FabianLange
 
 72
 
-sv_FI.dat
+pl_PL.dat
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-40a6c3b588302c2130b04e6bd802dd80
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-251
-
-nn_NO.dat
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-1652f19b77c2ee5557f6a0e0802e234a
+d74192dc538ccafbd11ca68013282ae9
 2009-10-27T21:49:06.022763Z
 23398
 FabianLange
@@ -8492,6 +8458,40 @@ FabianLange
 
 104573
 
+nn_NO.dat
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+1652f19b77c2ee5557f6a0e0802e234a
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31
+
 sw_KE.dat
 file
 
@@ -8525,40 +8525,6 @@ FabianLange
 
 
 221
-
-nl.dat
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-7a15c2d48e1cb6659d9daba49432493d
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-74143
 
 kk_KZ.dat
 file
@@ -8594,6 +8560,40 @@ FabianLange
 
 38
 
+nl.dat
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+7a15c2d48e1cb6659d9daba49432493d
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+74143
+
 en_GB.dat
 file
 
@@ -8628,40 +8628,6 @@ FabianLange
 
 2372
 
-es_SV.dat
-file
-
-
-
-
-2011-01-12T19:08:40.000000Z
-7989291027cd8038cf2a6d08ecbf2f37
-2009-10-27T21:49:06.022763Z
-23398
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-212
-
 sr_Cyrl_BA.dat
 file
 
@@ -8695,6 +8661,40 @@ FabianLange
 
 
 1251
+
+es_SV.dat
+file
+
+
+
+
+2011-01-12T19:08:40.000000Z
+7989291027cd8038cf2a6d08ecbf2f37
+2009-10-27T21:49:06.022763Z
+23398
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+212
 
 ro.dat
 file

@@ -1,7 +1,7 @@
 10
 
 dir
-31813
+31814
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/parts
 http://svn.symfony-project.com
 
@@ -60,40 +60,6 @@ has-props
 
 3341
 
-processFormAction.php
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-a9bae228542e7e1ce75b7c4324c33a8a
-2009-04-07T18:27:23.041919Z
-17109
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1122
-
 deleteAction.php
 file
 
@@ -127,6 +93,40 @@ has-props
 
 
 425
+
+processFormAction.php
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+a9bae228542e7e1ce75b7c4324c33a8a
+2009-04-07T18:27:23.041919Z
+17109
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1122
 
 createAction.php
 file
@@ -400,17 +400,17 @@ has-props
 
 452
 
-sortingAction.php
+editAction.php
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-8ade070b3ccc1dfa4774e29decd395b6
-2009-11-16T17:52:14.706630Z
-24039
-Kris.Wallsmith
+a4fab933268d1601bfff828871f054e9
+2008-10-31T10:54:48.510952Z
+12480
+fabien
 has-props
 
 
@@ -432,7 +432,7 @@ has-props
 
 
 
-1244
+241
 
 filterAction.php
 file
@@ -468,17 +468,17 @@ has-props
 
 723
 
-editAction.php
+sortingAction.php
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-a4fab933268d1601bfff828871f054e9
-2008-10-31T10:54:48.510952Z
-12480
-fabien
+8ade070b3ccc1dfa4774e29decd395b6
+2009-11-16T17:52:14.706630Z
+24039
+Kris.Wallsmith
 has-props
 
 
@@ -500,7 +500,7 @@ has-props
 
 
 
-241
+1244
 
 newAction.php
 file

@@ -1,7 +1,7 @@
 10
 
 dir
-31813
+31814
 http://svn.symfony-project.com/branches/1.4/lib/exception/data
 http://svn.symfony-project.com
 
@@ -60,40 +60,6 @@ has-props
 
 2217
 
-exception.xml.php
-file
-
-
-
-
-2011-01-12T19:08:40.000000Z
-38c6bbd57a236e109ced780f26a65cb4
-2008-10-14T21:45:36.141152Z
-12191
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-481
-
 exception.atom.php
 file
 
@@ -128,17 +94,17 @@ has-props
 
 67
 
-exception.html.php
+exception.xml.php
 file
 
 
 
 
 2011-01-12T19:08:40.000000Z
-33a1bf137dc1a48cad6e231539f0918e
-2010-03-21T10:09:26.186811Z
-28640
-fabien
+38c6bbd57a236e109ced780f26a65cb4
+2008-10-14T21:45:36.141152Z
+12191
+Kris.Wallsmith
 has-props
 
 
@@ -160,7 +126,7 @@ has-props
 
 
 
-5387
+481
 
 error.json.php
 file
@@ -195,6 +161,40 @@ has-props
 
 
 115
+
+exception.html.php
+file
+
+
+
+
+2011-01-12T19:08:40.000000Z
+33a1bf137dc1a48cad6e231539f0918e
+2010-03-21T10:09:26.186811Z
+28640
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5387
 
 error.rdf.php
 file

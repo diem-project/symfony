@@ -1,7 +1,7 @@
 10
 
 dir
-31813
+31814
 http://svn.symfony-project.com/branches/1.4/lib/vendor/swiftmailer/classes/Swift
 http://svn.symfony-project.com
 
@@ -551,6 +551,9 @@ fabien
 
 1607
 
+CharacterReaderFactory
+dir
+
 DependencyContainer.php
 file
 
@@ -584,9 +587,6 @@ fabien
 
 
 8934
-
-CharacterReaderFactory
-dir
 
 Image.php
 file
@@ -622,40 +622,6 @@ fabien
 
 1464
 
-Message.php
-file
-
-
-
-
-2011-01-12T19:08:42.000000Z
-280ba31a77e433b01bbaed4230b3a734
-2009-09-22T14:37:05.004136Z
-22246
-fabien
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2164
-
 FailoverTransport.php
 file
 
@@ -690,8 +656,39 @@ fabien
 
 1185
 
-KeyCache
-dir
+Message.php
+file
+
+
+
+
+2011-01-12T19:08:42.000000Z
+280ba31a77e433b01bbaed4230b3a734
+2009-09-22T14:37:05.004136Z
+22246
+fabien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2164
 
 Encoding.php
 file
@@ -726,6 +723,9 @@ fabien
 
 
 1439
+
+KeyCache
+dir
 
 Attachment.php
 file

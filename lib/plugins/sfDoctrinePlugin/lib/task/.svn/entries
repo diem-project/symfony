@@ -1,7 +1,7 @@
 10
 
 dir
-31813
+31814
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task
 http://svn.symfony-project.com
 
@@ -60,40 +60,6 @@ has-props
 
 1970
 
-sfDoctrineCleanModelFilesTask.class.php
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-0b4352a0d88f680f8e5c50d7de3ea850
-2010-05-30T14:19:33.060129Z
-29677
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3702
-
 sfDoctrineGenerateModuleForRouteTask.class.php
 file
 
@@ -128,17 +94,17 @@ has-props
 
 3924
 
-sfDoctrineBuildFiltersTask.class.php
+sfDoctrineCleanModelFilesTask.class.php
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-59b48133e0e2d7ba9c6a793f79b7cf3a
-2009-11-14T16:10:57.377925Z
-23927
-fabien
+0b4352a0d88f680f8e5c50d7de3ea850
+2010-05-30T14:19:33.060129Z
+29677
+Kris.Wallsmith
 has-props
 
 
@@ -160,7 +126,7 @@ has-props
 
 
 
-3102
+3702
 
 sfDoctrineMigrateTask.class.php
 file
@@ -195,6 +161,40 @@ has-props
 
 
 3930
+
+sfDoctrineBuildFiltersTask.class.php
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+59b48133e0e2d7ba9c6a793f79b7cf3a
+2009-11-14T16:10:57.377925Z
+23927
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3102
 
 sfDoctrineGenerateMigrationsModelsTask.class.php
 file
@@ -264,40 +264,6 @@ has-props
 
 2040
 
-sfDoctrineDataDumpTask.class.php
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-c92741cf12bdc327fb27eb33876e2874
-2009-11-14T14:58:38.254908Z
-23922
-fabien
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2593
-
 sfDoctrineBuildTask.class.php
 file
 
@@ -331,6 +297,40 @@ has-props
 
 
 9515
+
+sfDoctrineDataDumpTask.class.php
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+c92741cf12bdc327fb27eb33876e2874
+2009-11-14T14:58:38.254908Z
+23922
+fabien
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2593
 
 sfDoctrineGenerateModuleTask.class.php
 file
@@ -468,40 +468,6 @@ has-props
 
 2547
 
-sfDoctrineConfigureDatabaseTask.class.php
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-546b1fcd35349b5504befae96795a441
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3297
-
 sfDoctrineBuildFormsTask.class.php
 file
 
@@ -535,6 +501,40 @@ has-props
 
 
 3418
+
+sfDoctrineConfigureDatabaseTask.class.php
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+546b1fcd35349b5504befae96795a441
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3297
 
 sfDoctrineDeleteModelFilesTask.class.php
 file

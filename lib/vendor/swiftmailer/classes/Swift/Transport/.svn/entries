@@ -1,7 +1,7 @@
 10
 
 dir
-31813
+31814
 http://svn.symfony-project.com/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Transport
 http://svn.symfony-project.com
 
@@ -128,6 +128,9 @@ fabien
 
 1682
 
+Esmtp
+dir
+
 SmtpAgent.php
 file
 
@@ -161,9 +164,6 @@ fabien
 
 
 937
-
-Esmtp
-dir
 
 EsmtpTransport.php
 file
@@ -233,40 +233,6 @@ fabien
 
 3978
 
-SpoolTransport.php
-file
-
-
-
-
-2011-01-12T19:08:42.000000Z
-cc12b38034ede175e7e864014da0e041
-2009-09-22T16:23:26.543958Z
-22247
-fabien
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2410
-
 SendmailTransport.php
 file
 
@@ -300,6 +266,40 @@ fabien
 
 
 4809
+
+SpoolTransport.php
+file
+
+
+
+
+2011-01-12T19:08:42.000000Z
+cc12b38034ede175e7e864014da0e041
+2009-09-22T16:23:26.543958Z
+22247
+fabien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2410
 
 MailInvoker.php
 file
@@ -335,40 +335,6 @@ fabien
 
 766
 
-FailoverTransport.php
-file
-
-
-
-
-2011-01-12T19:08:42.000000Z
-565ceb65a48893b80fc11e7714ef1434
-2009-09-13T15:30:06.022864Z
-21985
-fabien
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2254
-
 AbstractSmtpTransport.php
 file
 
@@ -402,6 +368,40 @@ fabien
 
 
 13451
+
+FailoverTransport.php
+file
+
+
+
+
+2011-01-12T19:08:42.000000Z
+565ceb65a48893b80fc11e7714ef1434
+2009-09-13T15:30:06.022864Z
+21985
+fabien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2254
 
 StreamBuffer.php
 file

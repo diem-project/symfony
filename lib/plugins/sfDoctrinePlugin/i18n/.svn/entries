@@ -1,7 +1,7 @@
 10
 
 dir
-31813
+31814
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfPropelPlugin/i18n
 http://svn.symfony-project.com
 
@@ -672,40 +672,6 @@ bschussek
 
 5922
 
-sf_admin.hr.xml
-file
-
-
-
-
-2011-01-12T14:23:17.000000Z
-744d8bbf81a7a5586b3a549518462d9b
-2008-11-27T10:53:20.077847Z
-13399
-fabien
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4425
-
 sf_admin.nl.xml
 file
 
@@ -739,6 +705,40 @@ fabien
 
 
 4034
+
+sf_admin.hr.xml
+file
+
+
+
+
+2011-01-12T14:23:17.000000Z
+744d8bbf81a7a5586b3a549518462d9b
+2008-11-27T10:53:20.077847Z
+13399
+fabien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4425
 
 sf_admin.pl.xml
 file
@@ -774,40 +774,6 @@ FabianLange
 
 5803
 
-sf_admin.hu.xml
-file
-
-
-
-
-2011-01-12T14:23:17.000000Z
-82479f87718ba53370fc786a1dd1bccc
-2008-11-27T10:53:20.077847Z
-13399
-fabien
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4579
-
 sf_admin.no.xml
 file
 
@@ -841,6 +807,40 @@ fabien
 
 
 3413
+
+sf_admin.hu.xml
+file
+
+
+
+
+2011-01-12T14:23:17.000000Z
+82479f87718ba53370fc786a1dd1bccc
+2008-11-27T10:53:20.077847Z
+13399
+fabien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4579
 
 sf_admin.lt.xml
 file
@@ -944,40 +944,6 @@ fabien
 
 4448
 
-sf_admin.ca.xml
-file
-
-
-
-
-2011-01-12T14:23:17.000000Z
-6ae070eb3ed9e4b2000991108625e2cc
-2009-09-27T13:32:45.047376Z
-22490
-FabianLange
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5122
-
 sf_admin.pt.xml
 file
 
@@ -1011,6 +977,40 @@ fabien
 
 
 4549
+
+sf_admin.ca.xml
+file
+
+
+
+
+2011-01-12T14:23:17.000000Z
+6ae070eb3ed9e4b2000991108625e2cc
+2009-09-27T13:32:45.047376Z
+22490
+FabianLange
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5122
 
 sf_admin.tr.xml
 file

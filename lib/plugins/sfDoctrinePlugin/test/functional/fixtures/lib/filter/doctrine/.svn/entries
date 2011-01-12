@@ -1,7 +1,7 @@
 10
 
 dir
-31813
+31814
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine
 http://svn.symfony-project.com
 
@@ -28,40 +28,6 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 
 SettingsPlugin
 dir
-
-GroupFormFilter.class.php
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-aba6473b762104a0acd7a82f10e91397
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-272
 
 FormGeneratorTest2FormFilter.class.php
 file
@@ -96,6 +62,40 @@ has-props
 
 
 337
+
+GroupFormFilter.class.php
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+aba6473b762104a0acd7a82f10e91397
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+272
 
 AuthorInheritanceConcreteFormFilter.class.php
 file
@@ -165,14 +165,14 @@ has-props
 
 282
 
-BaseFormFilterDoctrine.class.php
+ArticleTranslationFormFilter.class.php
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-20a6f91b9c5a5d546ad3aff18600d5b7
+b57d3f523ce2119eb70f10ddd5d358dc
 2009-11-12T11:07:44.003356Z
 23810
 Kris.Wallsmith
@@ -197,7 +197,7 @@ has-props
 
 
 
-285
+337
 
 AuthorFormFilter.class.php
 file
@@ -233,14 +233,14 @@ has-props
 
 277
 
-ArticleTranslationFormFilter.class.php
+BaseFormFilterDoctrine.class.php
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-b57d3f523ce2119eb70f10ddd5d358dc
+20a6f91b9c5a5d546ad3aff18600d5b7
 2009-11-12T11:07:44.003356Z
 23810
 Kris.Wallsmith
@@ -265,18 +265,18 @@ has-props
 
 
 
-337
+285
 
-BlogAuthorFormFilter.class.php
+UniqueTestFormFilter.class.php
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-ad45137a7aac40ae025820cbb11e776b
-2009-11-07T12:51:07.550901Z
-23668
+99433e9829612d2f5d6fd1a301712191
+2009-11-12T11:07:44.003356Z
+23810
 Kris.Wallsmith
 has-props
 
@@ -299,7 +299,7 @@ has-props
 
 
 
-388
+297
 
 BlogArticleTranslationFormFilter.class.php
 file
@@ -335,16 +335,16 @@ has-props
 
 372
 
-UniqueTestFormFilter.class.php
+BlogAuthorFormFilter.class.php
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-99433e9829612d2f5d6fd1a301712191
-2009-11-12T11:07:44.003356Z
-23810
+ad45137a7aac40ae025820cbb11e776b
+2009-11-07T12:51:07.550901Z
+23668
 Kris.Wallsmith
 has-props
 
@@ -367,7 +367,7 @@ has-props
 
 
 
-297
+388
 
 AuthorInheritanceFormFilter.class.php
 file

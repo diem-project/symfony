@@ -1,7 +1,7 @@
 10
 
 dir
-31813
+31814
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/template/templates
 http://svn.symfony-project.com
 
@@ -332,16 +332,16 @@ has-props
 
 1658
 
-_list.php
+_filters_field.php
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-71535ca40e2e5d02c3e423c4b40047cb
-2009-03-11T08:14:07.484906Z
-16172
+33fcd5a00b8ec6902a71c706349128e7
+2008-11-04T18:15:18.990191Z
+12640
 fabien
 has-props
 
@@ -364,7 +364,7 @@ has-props
 
 
 
-3215
+1048
 
 _form_header.php
 file
@@ -400,16 +400,16 @@ has-props
 
 0
 
-_filters_field.php
+_list.php
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-33fcd5a00b8ec6902a71c706349128e7
-2008-11-04T18:15:18.990191Z
-12640
+71535ca40e2e5d02c3e423c4b40047cb
+2009-03-11T08:14:07.484906Z
+16172
 fabien
 has-props
 
@@ -432,7 +432,7 @@ has-props
 
 
 
-1048
+3215
 
 _list_td_tabular.php
 file

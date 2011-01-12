@@ -1,7 +1,7 @@
 10
 
 dir
-31813
+31814
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine
 http://svn.symfony-project.com
 
@@ -28,74 +28,6 @@ ee427ae8-e902-0410-961c-c3ed070cd9f9
 
 SettingsPlugin
 dir
-
-BaseFormDoctrine.class.php
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-0e4b3f1066bce57e6bf8a6113ccb37c6
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-254
-
-AuthorForm.class.php
-file
-
-
-
-
-2011-01-12T19:08:41.000000Z
-6c504e300f046e352324b031b491bf0b
-2009-11-12T11:07:44.003356Z
-23810
-Kris.Wallsmith
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-247
 
 ArticleTranslationForm.class.php
 file
@@ -131,16 +63,16 @@ has-props
 
 307
 
-BlogAuthorForm.class.php
+AuthorForm.class.php
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-748d6fd2ba16c2bc82728d6b530cf5cb
-2009-11-07T12:51:07.550901Z
-23668
+6c504e300f046e352324b031b491bf0b
+2009-11-12T11:07:44.003356Z
+23810
 Kris.Wallsmith
 has-props
 
@@ -163,7 +95,75 @@ has-props
 
 
 
-355
+247
+
+BaseFormDoctrine.class.php
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+0e4b3f1066bce57e6bf8a6113ccb37c6
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+254
+
+UniqueTestForm.class.php
+file
+
+
+
+
+2011-01-12T19:08:41.000000Z
+15ec59b56030be70b9f1072fe72a4263
+2009-11-12T11:07:44.003356Z
+23810
+Kris.Wallsmith
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+267
 
 BlogArticleTranslationForm.class.php
 file
@@ -199,16 +199,16 @@ has-props
 
 345
 
-UniqueTestForm.class.php
+BlogAuthorForm.class.php
 file
 
 
 
 
 2011-01-12T19:08:41.000000Z
-15ec59b56030be70b9f1072fe72a4263
-2009-11-12T11:07:44.003356Z
-23810
+748d6fd2ba16c2bc82728d6b530cf5cb
+2009-11-07T12:51:07.550901Z
+23668
 Kris.Wallsmith
 has-props
 
@@ -231,7 +231,7 @@ has-props
 
 
 
-267
+355
 
 FormGeneratorTestForm.class.php
 file

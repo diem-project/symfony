@@ -1,7 +1,7 @@
 10
 
 dir
-31813
+31814
 http://svn.symfony-project.com/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Mime
 http://svn.symfony-project.com
 
@@ -94,14 +94,14 @@ fabien
 
 4841
 
-EncodingObserver.php
+SimpleMimeEntity.php
 file
 
 
 
 
 2011-01-12T19:08:42.000000Z
-b6426ba6414d1099257ae86d1c9d8b9c
+2f9d18f55730200f1e97b4b06c72bce5
 2009-09-13T15:30:06.022864Z
 21985
 fabien
@@ -126,7 +126,7 @@ fabien
 
 
 
-641
+19674
 
 SimpleMessage.php
 file
@@ -162,14 +162,14 @@ fabien
 
 14670
 
-SimpleMimeEntity.php
+EncodingObserver.php
 file
 
 
 
 
 2011-01-12T19:08:42.000000Z
-2f9d18f55730200f1e97b4b06c72bce5
+b6426ba6414d1099257ae86d1c9d8b9c
 2009-09-13T15:30:06.022864Z
 21985
 fabien
@@ -194,7 +194,7 @@ fabien
 
 
 
-19674
+641
 
 CharsetObserver.php
 file
@@ -335,40 +335,6 @@ fabien
 
 1028
 
-MimePart.php
-file
-
-
-
-
-2011-01-12T19:08:42.000000Z
-60bf65875776765324efd0854c965c8e
-2009-09-13T15:30:06.022864Z
-21985
-fabien
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4602
-
 SimpleHeaderSet.php
 file
 
@@ -402,6 +368,40 @@ fabien
 
 
 8985
+
+MimePart.php
+file
+
+
+
+
+2011-01-12T19:08:42.000000Z
+60bf65875776765324efd0854c965c8e
+2009-09-13T15:30:06.022864Z
+21985
+fabien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4602
 
 HeaderFactory.php
 file
@@ -437,9 +437,6 @@ fabien
 
 1818
 
-ContentEncoder
-dir
-
 Message.php
 file
 
@@ -473,6 +470,9 @@ fabien
 
 
 5810
+
+ContentEncoder
+dir
 
 MimeEntity.php
 file

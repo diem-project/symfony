@@ -1,7 +1,7 @@
 10
 
 dir
-31813
+31814
 http://svn.symfony-project.com/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Plugins
 http://svn.symfony-project.com
 
@@ -63,40 +63,6 @@ fabien
 Decorator
 dir
 
-LoggerPlugin.php
-file
-
-
-
-
-2011-01-12T19:08:42.000000Z
-0d82480281a06040fe46cdb7aeb04443
-2009-09-13T15:30:06.022864Z
-21985
-fabien
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4139
-
 AntiFloodPlugin.php
 file
 
@@ -131,6 +97,43 @@ fabien
 
 3047
 
+LoggerPlugin.php
+file
+
+
+
+
+2011-01-12T19:08:42.000000Z
+0d82480281a06040fe46cdb7aeb04443
+2009-09-13T15:30:06.022864Z
+21985
+fabien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4139
+
+Reporters
+dir
+
 Sleeper.php
 file
 
@@ -164,9 +167,6 @@ fabien
 
 
 458
-
-Reporters
-dir
 
 DecoratorPlugin.php
 file
