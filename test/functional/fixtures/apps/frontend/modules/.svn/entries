@@ -1,7 +1,7 @@
 10
 
 dir
-31811
+31813
 http://svn.symfony-project.com/branches/1.4/test/functional/fixtures/apps/frontend/modules
 http://svn.symfony-project.com
 
@@ -47,10 +47,10 @@ dir
 notfound
 dir
 
-exception
+configSecurityIsSecureAction
 dir
 
-configSecurityIsSecureAction
+exception
 dir
 
 configSecurityIsSecure
@@ -59,10 +59,10 @@ dir
 auth
 dir
 
-configModuleDisabled
+assetInclusion
 dir
 
-assetInclusion
+configModuleDisabled
 dir
 
 configSettingsMaxForwards

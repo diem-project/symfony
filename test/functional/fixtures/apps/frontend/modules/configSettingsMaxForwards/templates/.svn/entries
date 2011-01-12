@@ -1,7 +1,7 @@
 10
 
 dir
-31811
+31813
 http://svn.symfony-project.com/branches/1.4/test/functional/fixtures/apps/frontend/modules/configSettingsMaxForwards/templates
 http://svn.symfony-project.com
 
@@ -32,7 +32,7 @@ file
 
 
 
-2011-01-12T14:22:57.207668Z
+2011-01-12T19:08:42.767668Z
 d41d8cd98f00b204e9800998ecf8427e
 2006-09-13T21:10:46.512664Z
 2069

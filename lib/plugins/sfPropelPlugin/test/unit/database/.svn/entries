@@ -1,7 +1,7 @@
 10
 
 dir
-31811
+31813
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfPropelPlugin/test/unit/database
 http://svn.symfony-project.com
 
@@ -32,7 +32,7 @@ file
 
 
 
-2011-01-12T14:23:03.000000Z
+2011-01-12T19:08:42.000000Z
 4a5bee8295ce864c2b084754b6e63c5e
 2009-11-09T23:23:25.629412Z
 23737

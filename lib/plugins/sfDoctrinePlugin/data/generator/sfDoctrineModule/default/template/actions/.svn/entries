@@ -1,7 +1,7 @@
 10
 
 dir
-31811
+31813
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineModule/default/template/actions
 http://svn.symfony-project.com
 
@@ -32,7 +32,7 @@ file
 
 
 
-2011-01-12T14:23:03.000000Z
+2011-01-12T19:08:41.000000Z
 ff60013c09948d3779af9964c94740b6
 2009-11-12T11:07:44.003356Z
 23810

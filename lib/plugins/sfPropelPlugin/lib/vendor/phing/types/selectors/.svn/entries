@@ -1,7 +1,7 @@
 10
 
 dir
-1029
+1031
 http://phing.mirror.svn.symfony-project.com/tags/2.3.3/classes/phing/types/selectors
 http://phing.mirror.svn.symfony-project.com
 
@@ -25,40 +25,6 @@ hans
 
 
 c8b19502-6211-4773-8637-5aef67d587fc
-
-ContainsRegexpSelector.php
-file
-
-
-
-
-2011-01-12T14:23:10.000000Z
-9a973b24c6c892abcb080823fd70a324
-2006-09-14T20:19:08.286051Z
-123
-mrook
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5652
 
 SelectorScanner.php
 file
@@ -94,6 +60,40 @@ has-props
 
 1832
 
+ContainsRegexpSelector.php
+file
+
+
+
+
+2011-01-12T14:23:10.000000Z
+9a973b24c6c892abcb080823fd70a324
+2006-09-14T20:19:08.286051Z
+123
+mrook
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5652
+
 MajoritySelector.php
 file
 
@@ -127,40 +127,6 @@ has-props
 
 
 3309
-
-NoneSelector.php
-file
-
-
-
-
-2011-01-12T14:23:10.000000Z
-dd65802fcf2f64ff6d1cc46f2b5c3e5b
-2006-09-14T20:19:08.286051Z
-123
-mrook
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2548
 
 DependSelector.php
 file
@@ -196,14 +162,14 @@ has-props
 
 5248
 
-NotSelector.php
+NoneSelector.php
 file
 
 
 
 
 2011-01-12T14:23:10.000000Z
-2af59f645a8716d071f9cd30307a72a8
+dd65802fcf2f64ff6d1cc46f2b5c3e5b
 2006-09-14T20:19:08.286051Z
 123
 mrook
@@ -228,7 +194,7 @@ has-props
 
 
 
-2070
+2548
 
 SelectorUtils.php
 file
@@ -263,6 +229,40 @@ has-props
 
 
 16371
+
+NotSelector.php
+file
+
+
+
+
+2011-01-12T14:23:10.000000Z
+2af59f645a8716d071f9cd30307a72a8
+2006-09-14T20:19:08.286051Z
+123
+mrook
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2070
 
 AndSelector.php
 file
@@ -332,40 +332,6 @@ has-props
 
 5735
 
-BaseSelector.php
-file
-
-
-
-
-2011-01-12T14:23:10.000000Z
-b1f94367c760eb997c664279047f7315
-2006-09-14T20:19:08.286051Z
-123
-mrook
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2829
-
 SizeSelector.php
 file
 
@@ -400,17 +366,17 @@ has-props
 
 8816
 
-DateSelector.php
+BaseSelector.php
 file
 
 
 
 
 2011-01-12T14:23:10.000000Z
-6881bef27c58aa435eb55302318ab644
-2008-10-15T14:26:00.850037Z
-396
-hans
+b1f94367c760eb997c664279047f7315
+2006-09-14T20:19:08.286051Z
+123
+mrook
 has-props
 
 
@@ -432,7 +398,7 @@ has-props
 
 
 
-7621
+2829
 
 BaseSelectorContainer.php
 file
@@ -467,6 +433,40 @@ has-props
 
 
 7523
+
+DateSelector.php
+file
+
+
+
+
+2011-01-12T14:23:10.000000Z
+6881bef27c58aa435eb55302318ab644
+2008-10-15T14:26:00.850037Z
+396
+hans
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7621
 
 ContainsSelector.php
 file

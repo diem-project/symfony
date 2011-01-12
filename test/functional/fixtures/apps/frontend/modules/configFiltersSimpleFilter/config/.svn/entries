@@ -1,7 +1,7 @@
 10
 
 dir
-31811
+31813
 http://svn.symfony-project.com/branches/1.4/test/functional/fixtures/apps/frontend/modules/configFiltersSimpleFilter/config
 http://svn.symfony-project.com
 
@@ -32,7 +32,7 @@ file
 
 
 
-2011-01-12T14:22:57.000000Z
+2011-01-12T19:08:42.000000Z
 fe9869a09088094d86d7358b98842ba9
 2009-04-30T07:13:08.234464Z
 17794

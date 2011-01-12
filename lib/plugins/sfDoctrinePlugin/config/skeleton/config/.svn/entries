@@ -1,7 +1,7 @@
 10
 
 dir
-31811
+31813
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfDoctrinePlugin/config/skeleton/config
 http://svn.symfony-project.com
 
@@ -35,7 +35,7 @@ file
 
 
 
-2011-01-12T14:23:02.000000Z
+2011-01-12T19:08:41.000000Z
 94f4f7f01b59d70fa06689cbf87e151f
 2009-11-23T15:11:28.124771Z
 24275

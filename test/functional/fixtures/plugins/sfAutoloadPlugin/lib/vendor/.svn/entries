@@ -1,7 +1,7 @@
 10
 
 dir
-31811
+31813
 http://svn.symfony-project.com/branches/1.4/test/functional/fixtures/plugins/sfAutoloadPlugin/lib/vendor
 http://svn.symfony-project.com
 
@@ -32,7 +32,7 @@ file
 
 
 
-2011-01-12T14:22:56.000000Z
+2011-01-12T19:08:42.000000Z
 534a8f1bb3405ff92d651a26e87696c5
 2008-11-20T18:23:18.584299Z
 13196

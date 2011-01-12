@@ -1,7 +1,7 @@
 10
 
 dir
-31811
+31813
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/SettingsPlugin
 http://svn.symfony-project.com
 
@@ -35,7 +35,7 @@ file
 
 
 
-2011-01-12T14:23:02.000000Z
+2011-01-12T19:08:41.000000Z
 e871c9ee3cd49911f71356841ca12e9c
 2010-04-04T22:59:54.794666Z
 28974

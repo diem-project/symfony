@@ -1,7 +1,7 @@
 10
 
 dir
-31811
+31813
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfPropelPlugin/lib/task/phing
 http://svn.symfony-project.com
 
@@ -38,7 +38,7 @@ file
 
 
 
-2011-01-12T14:23:05.000000Z
+2011-01-12T19:08:41.000000Z
 8edf19ba5e9dbaacd7b2e489ba7bcd0a
 2008-11-24T18:47:08.936722Z
 13311

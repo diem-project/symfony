@@ -1,7 +1,7 @@
 10
 
 dir
-1029
+1031
 http://phing.mirror.svn.symfony-project.com/tags/2.3.3/classes/phing/filters
 http://phing.mirror.svn.symfony-project.com
 
@@ -94,40 +94,6 @@ has-props
 
 2877
 
-TailFilter.php
-file
-
-
-
-
-2011-01-12T14:23:10.000000Z
-6e33f22e2490a21b841f639ace2dd655
-2007-12-20T15:44:58.929962Z
-325
-hans
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5110
-
 ReplaceTokens.php
 file
 
@@ -161,6 +127,40 @@ has-props
 
 
 12828
+
+TailFilter.php
+file
+
+
+
+
+2011-01-12T14:23:10.000000Z
+6e33f22e2490a21b841f639ace2dd655
+2007-12-20T15:44:58.929962Z
+325
+hans
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5110
 
 XsltFilter.php
 file
@@ -196,40 +196,6 @@ has-props
 
 9621
 
-StripLineBreaks.php
-file
-
-
-
-
-2011-01-12T14:23:10.000000Z
-c6aeac975b346d80c9439db180c35edc
-2007-12-20T15:44:58.929962Z
-325
-hans
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4729
-
 LineContainsRegexp.php
 file
 
@@ -263,6 +229,40 @@ has-props
 
 
 6141
+
+StripLineBreaks.php
+file
+
+
+
+
+2011-01-12T14:23:10.000000Z
+c6aeac975b346d80c9439db180c35edc
+2007-12-20T15:44:58.929962Z
+325
+hans
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4729
 
 TranslateGettext.php
 file
@@ -434,14 +434,14 @@ mrook
 
 3234
 
-StripLineComments.php
+StripPhpComments.php
 file
 
 
 
 
 2011-01-12T14:23:10.000000Z
-72d555f9de5eccfdf402aeb8c7d0c573
+3457f4527f1469d9e032aa928810f173
 2007-12-20T15:44:58.929962Z
 325
 hans
@@ -466,7 +466,7 @@ has-props
 
 
 
-6454
+7098
 
 TidyFilter.php
 file
@@ -502,14 +502,14 @@ has-props
 
 4757
 
-StripPhpComments.php
+StripLineComments.php
 file
 
 
 
 
 2011-01-12T14:23:10.000000Z
-3457f4527f1469d9e032aa928810f173
+72d555f9de5eccfdf402aeb8c7d0c573
 2007-12-20T15:44:58.929962Z
 325
 hans
@@ -534,7 +534,7 @@ has-props
 
 
 
-7098
+6454
 
 XincludeFilter.php
 file

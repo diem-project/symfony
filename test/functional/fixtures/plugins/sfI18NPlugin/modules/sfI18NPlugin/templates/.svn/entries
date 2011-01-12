@@ -1,7 +1,7 @@
 10
 
 dir
-31811
+31813
 http://svn.symfony-project.com/branches/1.4/test/functional/fixtures/plugins/sfI18NPlugin/modules/sfI18NPlugin/templates
 http://svn.symfony-project.com
 
@@ -32,7 +32,7 @@ file
 
 
 
-2011-01-12T14:22:56.000000Z
+2011-01-12T19:08:42.000000Z
 1372d00401399187fd8e0bdd9e583699
 2007-06-25T07:37:00.856065Z
 4350

@@ -1,7 +1,7 @@
 10
 
 dir
-1029
+1031
 http://phing.mirror.svn.symfony-project.com/tags/2.3.3/classes/phing/system/io
 http://phing.mirror.svn.symfony-project.com
 
@@ -94,40 +94,6 @@ hans
 
 3796
 
-Reader.php
-file
-
-
-
-
-2011-01-12T14:23:09.000000Z
-af335ab2145ff5cc3fabaaa96785fba5
-2007-08-28T02:17:00.079088Z
-227
-hans
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2727
-
 FileReader.php
 file
 
@@ -161,6 +127,40 @@ has-props
 
 
 1498
+
+Reader.php
+file
+
+
+
+
+2011-01-12T14:23:09.000000Z
+af335ab2145ff5cc3fabaaa96785fba5
+2007-08-28T02:17:00.079088Z
+227
+hans
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2727
 
 WinNTFileSystem.php
 file
@@ -196,40 +196,6 @@ has-props
 
 1303
 
-PhingFile.php
-file
-
-
-
-
-2011-01-12T14:23:09.000000Z
-4dd816771859ae186b935a41eb0d899d
-2008-03-08T10:07:53.884989Z
-362
-mrook
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-32548
-
 BufferedReader.php
 file
 
@@ -263,6 +229,40 @@ has-props
 
 
 5360
+
+PhingFile.php
+file
+
+
+
+
+2011-01-12T14:23:09.000000Z
+4dd816771859ae186b935a41eb0d899d
+2008-03-08T10:07:53.884989Z
+362
+mrook
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32548
 
 Win32FileSystem.php
 file
@@ -366,40 +366,6 @@ hans
 
 2510
 
-InputStream.php
-file
-
-
-
-
-2011-01-12T14:23:09.000000Z
-412e4f53a279b5b94ade4e6f6e50be53
-2007-08-28T02:17:00.079088Z
-227
-hans
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5519
-
 FileInputStream.php
 file
 
@@ -434,14 +400,48 @@ hans
 
 2465
 
-FileWriter.php
+InputStream.php
 file
 
 
 
 
 2011-01-12T14:23:09.000000Z
-218bfd7131963c024728ca6df094e883
+412e4f53a279b5b94ade4e6f6e50be53
+2007-08-28T02:17:00.079088Z
+227
+hans
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5519
+
+Writer.php
+file
+
+
+
+
+2011-01-12T14:23:09.000000Z
+47b3b8685a01642b6469661a1f346815
 2007-08-28T02:17:00.079088Z
 227
 hans
@@ -466,7 +466,7 @@ has-props
 
 
 
-1600
+1764
 
 FileOutputStream.php
 file
@@ -502,14 +502,14 @@ hans
 
 2504
 
-Writer.php
+FileWriter.php
 file
 
 
 
 
 2011-01-12T14:23:09.000000Z
-47b3b8685a01642b6469661a1f346815
+218bfd7131963c024728ca6df094e883
 2007-08-28T02:17:00.079088Z
 227
 hans
@@ -534,7 +534,7 @@ has-props
 
 
 
-1764
+1600
 
 OutputStream.php
 file

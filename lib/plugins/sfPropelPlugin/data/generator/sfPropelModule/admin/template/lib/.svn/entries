@@ -1,7 +1,7 @@
 10
 
 dir
-31811
+31813
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfPropelPlugin/data/generator/sfPropelModule/admin/template/lib
 http://svn.symfony-project.com
 
@@ -32,7 +32,7 @@ file
 
 
 
-2011-01-12T14:23:06.000000Z
+2011-01-12T19:08:41.000000Z
 89062983760e74c3512a48888e3fb162
 2010-02-03T09:22:49.917680Z
 27479

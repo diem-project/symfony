@@ -1,7 +1,7 @@
 10
 
 dir
-31811
+31813
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfDoctrinePlugin/test/unit/record
 http://svn.symfony-project.com
 
@@ -32,7 +32,7 @@ file
 
 
 
-2011-01-12T14:23:01.000000Z
+2011-01-12T19:08:41.000000Z
 01d2bf978cc9fe5c5a934772327a0af8
 2009-12-01T18:36:11.181357Z
 24703

@@ -1,7 +1,7 @@
 10
 
 dir
-31811
+31813
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/frontend/modules/i18n/templates
 http://svn.symfony-project.com
 
@@ -32,7 +32,7 @@ file
 
 
 
-2011-01-12T14:23:03.000000Z
+2011-01-12T19:08:42.000000Z
 b2efdceabee458431c1b6de5918578e2
 2009-11-30T19:53:50.069045Z
 24597
@@ -66,7 +66,7 @@ file
 
 
 
-2011-01-12T14:23:03.000000Z
+2011-01-12T19:08:42.000000Z
 d4ab53ed58338d28d79fbf9b98f05659
 2009-11-30T19:53:50.069045Z
 24597
@@ -100,7 +100,7 @@ file
 
 
 
-2011-01-12T14:23:03.000000Z
+2011-01-12T19:08:42.000000Z
 84a584a8241a071750f94b8bada79b82
 2008-11-09T20:08:32.276277Z
 12854

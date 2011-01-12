@@ -1,7 +1,7 @@
 10
 
 dir
-31811
+31813
 http://svn.symfony-project.com/branches/1.4/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/frontend/modules/pooling/actions
 http://svn.symfony-project.com
 
@@ -32,7 +32,7 @@ file
 
 
 
-2011-01-12T14:23:05.000000Z
+2011-01-12T19:08:42.000000Z
 d3a2c35b2472fe17da484bf73fbee579
 2008-12-14T15:41:43.923524Z
 14025
