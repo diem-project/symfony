@@ -1,0 +1,13 @@
+K 9
+svk:merge
+V 62
+c7721397-710b-419e-9b42-461de0fc8cda:/symfony/local/trunk:1167
+K 10
+svn:ignore
+V 42
+.project
+.projectOptions
+.cache
+.settings
+
+END
