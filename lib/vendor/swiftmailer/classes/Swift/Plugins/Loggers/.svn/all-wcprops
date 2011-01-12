@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Plugins/Loggers
+END
+ArrayLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Plugins/Loggers/ArrayLogger.php
+END
+EchoLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Plugins/Loggers/EchoLogger.php
+END

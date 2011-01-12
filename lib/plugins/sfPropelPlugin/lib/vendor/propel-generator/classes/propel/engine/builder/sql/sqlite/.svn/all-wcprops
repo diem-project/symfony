@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/engine/builder/sql/sqlite
+END
+SqliteDDLBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/engine/builder/sql/sqlite/SqliteDDLBuilder.php
+END
+SqliteDataSQLBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/engine/builder/sql/sqlite/SqliteDataSQLBuilder.php
+END

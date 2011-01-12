@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/24288/branches/1.4/test/unit/task
+END
+sfTaskTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/23881/branches/1.4/test/unit/task/sfTaskTest.php
+END
+sfFilesystemTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/23881/branches/1.4/test/unit/task/sfFilesystemTest.php
+END
+sfBaseTaskTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/24288/branches/1.4/test/unit/task/sfBaseTaskTest.php
+END

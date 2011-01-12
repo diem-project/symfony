@@ -1,0 +1,7 @@
+K 13
+svn:externals
+V 162
+yaml http://svn.symfony-project.com/components/yaml/branches/1.0/lib
+event_dispatcher http://svn.symfony-project.com/components/event_dispatcher/branches/1.0/lib
+
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/28633/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/routing
+END
+sfDoctrineRouteCollection.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/routing/sfDoctrineRouteCollection.class.php
+END
+sfDoctrineRoute.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28633/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/routing/sfDoctrineRoute.class.php
+END

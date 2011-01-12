@@ -1,0 +1,70 @@
+10
+
+dir
+31811
+http://svn.symfony-project.com/branches/1.4/lib/plugins/sfPropelPlugin/lib
+http://svn.symfony-project.com
+
+
+
+2010-08-04T16:30:29.377069Z
+30529
+fabien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+behavior
+dir
+
+test
+dir
+
+log
+dir
+
+task
+dir
+
+form
+dir
+
+widget
+dir
+
+database
+dir
+
+addon
+dir
+
+validator
+dir
+
+debug
+dir
+
+generator
+dir
+
+routing
+dir
+
+mailer
+dir
+
+vendor
+dir
+

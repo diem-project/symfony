@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/7490/branches/1.2/lib/Doctrine/AuditLog
+END
+Listener.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/7490/branches/1.2/lib/Doctrine/AuditLog/Listener.php
+END

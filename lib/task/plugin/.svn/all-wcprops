@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/23922/branches/1.4/lib/task/plugin
+END
+sfPluginBaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/23881/branches/1.4/lib/task/plugin/sfPluginBaseTask.class.php
+END
+sfPluginListTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/23922/branches/1.4/lib/task/plugin/sfPluginListTask.class.php
+END
+sfPluginAddChannelTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/23881/branches/1.4/lib/task/plugin/sfPluginAddChannelTask.class.php
+END
+sfPluginInstallTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/23922/branches/1.4/lib/task/plugin/sfPluginInstallTask.class.php
+END
+sfPluginUpgradeTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/23922/branches/1.4/lib/task/plugin/sfPluginUpgradeTask.class.php
+END
+sfPluginPublishAssetsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/23922/branches/1.4/lib/task/plugin/sfPluginPublishAssetsTask.class.php
+END
+sfPluginUninstallTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/23922/branches/1.4/lib/task/plugin/sfPluginUninstallTask.class.php
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/30790/branches/1.4/test/unit/log
+END
+sfLoggerWrapperTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/23881/branches/1.4/test/unit/log/sfLoggerWrapperTest.php
+END
+sfConsoleLoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/23881/branches/1.4/test/unit/log/sfConsoleLoggerTest.php
+END
+sfWebDebugLoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/30790/branches/1.4/test/unit/log/sfWebDebugLoggerTest.php
+END
+sfAggregateLoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/23881/branches/1.4/test/unit/log/sfAggregateLoggerTest.php
+END
+sfVarLoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/23881/branches/1.4/test/unit/log/sfVarLoggerTest.php
+END
+sfStreamLoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/23881/branches/1.4/test/unit/log/sfStreamLoggerTest.php
+END
+sfFileLoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/23881/branches/1.4/test/unit/log/sfFileLoggerTest.php
+END
+sfLoggerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/23881/branches/1.4/test/unit/log/sfLoggerTest.php
+END

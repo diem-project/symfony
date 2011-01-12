@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/24593/branches/1.4/lib/task/generator/skeleton/app/app/config
+END
+factories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/24434/branches/1.4/lib/task/generator/skeleton/app/app/config/factories.yml
+END
+app.yml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/24275/branches/1.4/lib/task/generator/skeleton/app/app/config/app.yml
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/24593/branches/1.4/lib/task/generator/skeleton/app/app/config/settings.yml
+END
+cache.yml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/24275/branches/1.4/lib/task/generator/skeleton/app/app/config/cache.yml
+END
+ApplicationConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/23881/branches/1.4/lib/task/generator/skeleton/app/app/config/ApplicationConfiguration.class.php
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/24275/branches/1.4/lib/task/generator/skeleton/app/app/config/routing.yml
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/24275/branches/1.4/lib/task/generator/skeleton/app/app/config/security.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/24275/branches/1.4/lib/task/generator/skeleton/app/app/config/filters.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/24275/branches/1.4/lib/task/generator/skeleton/app/app/config/view.yml
+END

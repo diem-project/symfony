@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/29608/branches/1.4/test/unit/util
+END
+sfClassManipulatorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/25063/branches/1.4/test/unit/util/sfClassManipulatorTest.php
+END
+sfBrowserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/28702/branches/1.4/test/unit/util/sfBrowserTest.php
+END
+sfContextTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/23881/branches/1.4/test/unit/util/sfContextTest.php
+END
+sfInflectorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/23881/branches/1.4/test/unit/util/sfInflectorTest.php
+END
+sfToolkitTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/23946/branches/1.4/test/unit/util/sfToolkitTest.php
+END
+sfFinderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/29608/branches/1.4/test/unit/util/sfFinderTest.php
+END
+sfDomCssSelectorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/29158/branches/1.4/test/unit/util/sfDomCssSelectorTest.php
+END
+sfParameterHolderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/23922/branches/1.4/test/unit/util/sfParameterHolderTest.php
+END
+sfCallableTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/23881/branches/1.4/test/unit/util/sfCallableTest.php
+END
+sfNamespacedParameterHolderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/23922/branches/1.4/test/unit/util/sfNamespacedParameterHolderTest.php
+END

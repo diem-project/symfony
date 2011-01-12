@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/30031/branches/1.4/test/unit/view
+END
+sfViewCacheManagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/30031/branches/1.4/test/unit/view/sfViewCacheManagerTest.php
+END
+sfViewParameterHolderTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/23881/branches/1.4/test/unit/view/sfViewParameterHolderTest.php
+END
+sfViewTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/23881/branches/1.4/test/unit/view/sfViewTest.php
+END

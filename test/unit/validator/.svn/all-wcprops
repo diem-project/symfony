@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/24628/branches/1.4/test/unit/validator
+END
+sfValidatorDateRangeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorDateRangeTest.php
+END
+sfValidatorChoiceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorChoiceTest.php
+END
+sfValidatorDateTimeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorDateTimeTest.php
+END
+sfValidatorCallbackTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorCallbackTest.php
+END
+sfValidatorIntegerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorIntegerTest.php
+END
+sfValidatorCSRFTokenTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorCSRFTokenTest.php
+END
+sfValidatorTimeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorTimeTest.php
+END
+sfValidatorSchemaTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorSchemaTest.php
+END
+sfValidatorAndTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorAndTest.php
+END
+sfValidatorUrlTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorUrlTest.php
+END
+sfValidatorPassTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorPassTest.php
+END
+sfValidatorSchemaFilterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorSchemaFilterTest.php
+END
+sfValidatorStringTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorStringTest.php
+END
+sfValidatorFromDescriptionTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorFromDescriptionTest.php
+END
+sfValidatorSchemaCompareTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorSchemaCompareTest.php
+END
+sfValidatorErrorSchemaTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorErrorSchemaTest.php
+END
+sfValidatorBaseTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorBaseTest.php
+END
+sfValidatorRegexTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorRegexTest.php
+END
+sfValidatorDateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/24628/branches/1.4/test/unit/validator/sfValidatorDateTest.php
+END
+sfValidatorFileTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorFileTest.php
+END
+sfValidatorBooleanTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorBooleanTest.php
+END
+sfValidatorOrTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorOrTest.php
+END
+sfValidatorDecoratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorDecoratorTest.php
+END
+sfValidatorEmailTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorEmailTest.php
+END
+sfValidatorNumberTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorNumberTest.php
+END
+sfValidatorSchemaForEachTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorSchemaForEachTest.php
+END
+sfValidatorErrorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/23881/branches/1.4/test/unit/validator/sfValidatorErrorTest.php
+END

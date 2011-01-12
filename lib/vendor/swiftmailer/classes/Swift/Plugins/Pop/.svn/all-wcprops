@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Plugins/Pop
+END
+Pop3Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Plugins/Pop/Pop3Exception.php
+END
+Pop3Connection.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Plugins/Pop/Pop3Connection.php
+END

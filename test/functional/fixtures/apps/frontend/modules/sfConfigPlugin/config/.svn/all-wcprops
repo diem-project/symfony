@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/frontend/modules/sfConfigPlugin/config
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/frontend/modules/sfConfigPlugin/config/filters.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/frontend/modules/sfConfigPlugin/config/view.yml
+END

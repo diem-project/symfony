@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/29415/branches/1.4/lib/task/test
+END
+sfTestBaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/23881/branches/1.4/lib/task/test/sfTestBaseTask.class.php
+END
+sfTestCoverageTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/25036/branches/1.4/lib/task/test/sfTestCoverageTask.class.php
+END
+sfTestUnitTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/29415/branches/1.4/lib/task/test/sfTestUnitTask.class.php
+END
+sfTestFunctionalTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/29415/branches/1.4/lib/task/test/sfTestFunctionalTask.class.php
+END
+sfLimeHarness.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/23881/branches/1.4/lib/task/test/sfLimeHarness.class.php
+END
+sfTestAllTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/29415/branches/1.4/lib/task/test/sfTestAllTask.class.php
+END

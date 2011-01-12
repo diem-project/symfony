@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/29679/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/widget
+END
+sfWidgetFormDoctrineChoice.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/29679/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/widget/sfWidgetFormDoctrineChoice.class.php
+END

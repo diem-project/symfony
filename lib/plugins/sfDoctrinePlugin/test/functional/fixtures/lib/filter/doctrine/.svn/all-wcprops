@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/29660/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine
+END
+GroupFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 128
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/GroupFormFilter.class.php
+END
+FormGeneratorTest2FormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/FormGeneratorTest2FormFilter.class.php
+END
+AuthorInheritanceConcreteFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 148
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/AuthorInheritanceConcreteFormFilter.class.php
+END
+ProfileFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/ProfileFormFilter.class.php
+END
+BaseFormFilterDoctrine.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/BaseFormFilterDoctrine.class.php
+END
+AuthorFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 129
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/AuthorFormFilter.class.php
+END
+ArticleTranslationFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 141
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/ArticleTranslationFormFilter.class.php
+END
+BlogAuthorFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/BlogAuthorFormFilter.class.php
+END
+BlogArticleTranslationFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/BlogArticleTranslationFormFilter.class.php
+END
+UniqueTestFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/UniqueTestFormFilter.class.php
+END
+AuthorInheritanceFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/AuthorInheritanceFormFilter.class.php
+END
+CamelCaseFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/CamelCaseFormFilter.class.php
+END
+UserFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/UserFormFilter.class.php
+END
+DefaultValueTestFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 139
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/DefaultValueTestFormFilter.class.php
+END
+ArticleFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 130
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/ArticleFormFilter.class.php
+END
+SubscriptionFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/SubscriptionFormFilter.class.php
+END
+BlogArticleFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/BlogArticleFormFilter.class.php
+END
+PermissionFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/PermissionFormFilter.class.php
+END
+AttachmentFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/24068/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/AttachmentFormFilter.class.php
+END
+ResourceTypeFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 135
+/!svn/ver/27742/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/ResourceTypeFormFilter.class.php
+END

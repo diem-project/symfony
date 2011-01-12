@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30529/branches/1.4/lib/plugins/sfPropelPlugin/lib/mailer
+END
+Swift_PropelSpool.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/30529/branches/1.4/lib/plugins/sfPropelPlugin/lib/mailer/Swift_PropelSpool.class.php
+END

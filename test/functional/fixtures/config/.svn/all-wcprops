@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/23932/branches/1.4/test/functional/fixtures/config
+END
+propel.ini
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/config/propel.ini
+END
+databases.yml
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/config/databases.yml
+END
+ProjectConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/23932/branches/1.4/test/functional/fixtures/config/ProjectConfiguration.class.php
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/config/filters.yml
+END
+properties.ini
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/config/properties.ini
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/config/view.yml
+END

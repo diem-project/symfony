@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 73
+doctrine http://doctrine.mirror.svn.symfony-project.com/branches/1.2/lib
+
+END

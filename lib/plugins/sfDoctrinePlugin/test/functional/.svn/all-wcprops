@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/30442/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional
+END
+AdminGenBrowser.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/30442/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/AdminGenBrowser.class.php
+END
+FormGeneratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/27742/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/FormGeneratorTest.php
+END
+PagerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/30442/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/PagerTest.php
+END
+RouteTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/30442/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/RouteTest.php
+END
+ActionRedirectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/ActionRedirectTest.php
+END
+I18nTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/28992/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/I18nTest.php
+END
+sfDoctrineRecordTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/30442/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/sfDoctrineRecordTest.php
+END
+SchemaMergeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/28974/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/SchemaMergeTest.php
+END
+AdminGenTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/AdminGenTest.php
+END
+FormTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/FormTest.php
+END
+UploadTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/24971/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/UploadTest.php
+END
+EnvironmentSetupTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/30442/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/EnvironmentSetupTest.php
+END
+UniqueTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/UniqueTest.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/engine/builder/util
+END
+Pluralizer.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/engine/builder/util/Pluralizer.php
+END
+DefaultEnglishPluralizer.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/engine/builder/util/DefaultEnglishPluralizer.php
+END

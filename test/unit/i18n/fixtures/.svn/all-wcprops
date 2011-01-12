@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/23881/branches/1.4/test/unit/i18n/fixtures
+END
+messages.fr_BE.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/23881/branches/1.4/test/unit/i18n/fixtures/messages.fr_BE.xml
+END
+messages_bis.fr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/23881/branches/1.4/test/unit/i18n/fixtures/messages_bis.fr.xml
+END
+messages.fr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/23881/branches/1.4/test/unit/i18n/fixtures/messages.fr.xml
+END

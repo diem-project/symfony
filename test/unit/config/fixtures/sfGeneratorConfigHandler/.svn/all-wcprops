@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfGeneratorConfigHandler
+END
+root_list_section.yml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfGeneratorConfigHandler/root_list_section.yml
+END
+no_generator_section.yml
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfGeneratorConfigHandler/no_generator_section.yml
+END
+no_generator_class.yml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfGeneratorConfigHandler/no_generator_class.yml
+END
+root_edit_section.yml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfGeneratorConfigHandler/root_edit_section.yml
+END
+root_fields_section.yml
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfGeneratorConfigHandler/root_fields_section.yml
+END
+empty.yml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfGeneratorConfigHandler/empty.yml
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/23881/branches/1.4/test/unit/autoload
+END
+sfCoreAutoloadTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/23881/branches/1.4/test/unit/autoload/sfCoreAutoloadTest.php
+END
+sfSimpleAutoloadTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/23881/branches/1.4/test/unit/autoload/sfSimpleAutoloadTest.php
+END

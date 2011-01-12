@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/24039/branches/1.4/test/bootstrap
+END
+unit.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/23881/branches/1.4/test/bootstrap/unit.php
+END
+functional.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/24039/branches/1.4/test/bootstrap/functional.php
+END
+task.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/23881/branches/1.4/test/bootstrap/task.php
+END

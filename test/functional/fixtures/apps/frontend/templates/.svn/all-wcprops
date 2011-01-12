@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/frontend/templates
+END
+layout.xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/frontend/templates/layout.xml.php
+END
+layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/frontend/templates/layout.php
+END
+layout.iphone.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/frontend/templates/layout.iphone.php
+END

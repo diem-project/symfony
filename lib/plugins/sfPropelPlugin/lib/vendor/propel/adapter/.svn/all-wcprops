@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/adapter
+END
+DBMySQL.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/adapter/DBMySQL.php
+END
+DBOracle.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/adapter/DBOracle.php
+END
+DBPostgres.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/adapter/DBPostgres.php
+END
+DBMSSQL.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/adapter/DBMSSQL.php
+END
+DBNone.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/adapter/DBNone.php
+END
+DBAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/adapter/DBAdapter.php
+END
+DBSQLite.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/adapter/DBSQLite.php
+END

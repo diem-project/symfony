@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfSimpleYamlConfigHandler
+END
+config_bis.yml
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfSimpleYamlConfigHandler/config_bis.yml
+END
+config.yml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfSimpleYamlConfigHandler/config.yml
+END

@@ -1,0 +1,173 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/30915/branches/1.4/lib/validator
+END
+sfValidatorEmail.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorEmail.class.php
+END
+sfValidatedFile.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/30915/branches/1.4/lib/validator/sfValidatedFile.class.php
+END
+sfValidatorNumber.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorNumber.class.php
+END
+sfValidatorSchemaForEach.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorSchemaForEach.class.php
+END
+sfValidatorError.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorError.class.php
+END
+sfValidatorDateRange.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorDateRange.class.php
+END
+sfValidatorChoice.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorChoice.class.php
+END
+sfValidatorDateTime.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorDateTime.class.php
+END
+sfValidatorCallback.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorCallback.class.php
+END
+sfValidatorInteger.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorInteger.class.php
+END
+sfValidatorCSRFToken.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorCSRFToken.class.php
+END
+sfValidatorTime.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorTime.class.php
+END
+sfValidatorSchema.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorSchema.class.php
+END
+sfValidatorAnd.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorAnd.class.php
+END
+sfValidatorUrl.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorUrl.class.php
+END
+sfValidatorPass.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorPass.class.php
+END
+sfValidatorSchemaFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorSchemaFilter.class.php
+END
+sfValidatorString.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorString.class.php
+END
+sfValidatorFromDescription.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/28700/branches/1.4/lib/validator/sfValidatorFromDescription.class.php
+END
+sfValidatorSchemaCompare.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorSchemaCompare.class.php
+END
+sfValidatorErrorSchema.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorErrorSchema.class.php
+END
+sfValidatorBase.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/23922/branches/1.4/lib/validator/sfValidatorBase.class.php
+END
+sfValidatorRegex.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorRegex.class.php
+END
+sfValidatorDate.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/28959/branches/1.4/lib/validator/sfValidatorDate.class.php
+END
+sfValidatorFile.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/23951/branches/1.4/lib/validator/sfValidatorFile.class.php
+END
+sfValidatorBoolean.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorBoolean.class.php
+END
+sfValidatorOr.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorOr.class.php
+END
+sfValidatorDecorator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/23881/branches/1.4/lib/validator/sfValidatorDecorator.class.php
+END

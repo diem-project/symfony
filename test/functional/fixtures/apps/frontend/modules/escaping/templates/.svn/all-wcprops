@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/27755/branches/1.4/test/functional/fixtures/apps/frontend/modules/escaping/templates
+END
+_partial1.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/27755/branches/1.4/test/functional/fixtures/apps/frontend/modules/escaping/templates/_partial1.php
+END
+_partial2.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/27755/branches/1.4/test/functional/fixtures/apps/frontend/modules/escaping/templates/_partial2.php
+END
+indexSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/27755/branches/1.4/test/functional/fixtures/apps/frontend/modules/escaping/templates/indexSuccess.php
+END

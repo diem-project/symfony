@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/23881/branches/1.4/test/other/fixtures/task
+END
+myPluginTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/23881/branches/1.4/test/other/fixtures/task/myPluginTask.class.php
+END
+zTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/23881/branches/1.4/test/other/fixtures/task/zTask.class.php
+END
+aTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/23881/branches/1.4/test/other/fixtures/task/aTask.class.php
+END

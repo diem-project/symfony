@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/29524/branches/1.4/lib/filter
+END
+sfCommonFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/24281/branches/1.4/lib/filter/sfCommonFilter.class.php
+END
+sfBasicSecurityFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/23881/branches/1.4/lib/filter/sfBasicSecurityFilter.class.php
+END
+sfRenderingFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/29524/branches/1.4/lib/filter/sfRenderingFilter.class.php
+END
+sfFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/23881/branches/1.4/lib/filter/sfFilter.class.php
+END
+sfFilterChain.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/23881/branches/1.4/lib/filter/sfFilterChain.class.php
+END
+sfCacheFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/28625/branches/1.4/lib/filter/sfCacheFilter.class.php
+END
+sfExecutionFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/29523/branches/1.4/lib/filter/sfExecutionFilter.class.php
+END

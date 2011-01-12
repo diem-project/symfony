@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/plugins/sfAutoloadPlugin/lib/vendor
+END
+ExcludedFromAutoload.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/plugins/sfAutoloadPlugin/lib/vendor/ExcludedFromAutoload.class.php
+END

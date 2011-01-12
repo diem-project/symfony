@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/logger
+END
+BasicLogger.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/logger/BasicLogger.php
+END
+MojaviLogAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/logger/MojaviLogAdapter.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/engine/behavior
+END
+AutoAddPkBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/engine/behavior/AutoAddPkBehavior.php
+END
+SoftDeleteBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/engine/behavior/SoftDeleteBehavior.php
+END
+AlternativeCodingStandardsBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/engine/behavior/AlternativeCodingStandardsBehavior.php
+END
+TimestampableBehavior.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/engine/behavior/TimestampableBehavior.php
+END

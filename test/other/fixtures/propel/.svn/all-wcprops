@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/23910/branches/1.4/test/other/fixtures/propel
+END
+propel.ini
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/23906/branches/1.4/test/other/fixtures/propel/propel.ini
+END
+schema.yml
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/23881/branches/1.4/test/other/fixtures/propel/schema.yml
+END
+Category.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/23910/branches/1.4/test/other/fixtures/propel/Category.php
+END
+databases.yml
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/23881/branches/1.4/test/other/fixtures/propel/databases.yml
+END

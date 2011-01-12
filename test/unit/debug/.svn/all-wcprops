@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/30961/branches/1.4/test/unit/debug
+END
+sfTimerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/23881/branches/1.4/test/unit/debug/sfTimerTest.php
+END
+sfWebDebugTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/30961/branches/1.4/test/unit/debug/sfWebDebugTest.php
+END
+sfDebugTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/23881/branches/1.4/test/unit/debug/sfDebugTest.php
+END

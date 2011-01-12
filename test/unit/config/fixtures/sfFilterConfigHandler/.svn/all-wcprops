@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfFilterConfigHandler
+END
+no_execution.yml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfFilterConfigHandler/no_execution.yml
+END
+no_class.yml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfFilterConfigHandler/no_class.yml
+END
+disable.yml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfFilterConfigHandler/disable.yml
+END
+result.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfFilterConfigHandler/result.php
+END
+condition.yml
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfFilterConfigHandler/condition.yml
+END
+not_disabled.yml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfFilterConfigHandler/not_disabled.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfFilterConfigHandler/filters.yml
+END
+no_rendering.yml
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfFilterConfigHandler/no_rendering.yml
+END
+default_filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfFilterConfigHandler/default_filters.yml
+END

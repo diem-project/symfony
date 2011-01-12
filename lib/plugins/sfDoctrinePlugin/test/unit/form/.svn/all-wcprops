@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/30442/branches/1.4/lib/plugins/sfDoctrinePlugin/test/unit/form
+END
+sfFormFilterDoctrineTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28992/branches/1.4/lib/plugins/sfDoctrinePlugin/test/unit/form/sfFormFilterDoctrineTest.php
+END
+sfFormDoctrineTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/30442/branches/1.4/lib/plugins/sfDoctrinePlugin/test/unit/form/sfFormDoctrineTest.php
+END

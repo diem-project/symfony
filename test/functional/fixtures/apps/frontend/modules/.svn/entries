@@ -1,0 +1,88 @@
+10
+
+dir
+31811
+http://svn.symfony-project.com/branches/1.4/test/functional/fixtures/apps/frontend/modules
+http://svn.symfony-project.com
+
+
+
+2010-02-08T20:51:02.851961Z
+27755
+Kris.Wallsmith
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+browser
+dir
+
+renderText
+dir
+
+filter
+dir
+
+format
+dir
+
+escaping
+dir
+
+configViewHasLayout
+dir
+
+notfound
+dir
+
+exception
+dir
+
+configSecurityIsSecureAction
+dir
+
+configSecurityIsSecure
+dir
+
+auth
+dir
+
+configModuleDisabled
+dir
+
+assetInclusion
+dir
+
+configSettingsMaxForwards
+dir
+
+autoload
+dir
+
+cookie
+dir
+
+view
+dir
+
+presentation
+dir
+
+sfConfigPlugin
+dir
+
+configFiltersSimpleFilter
+dir
+

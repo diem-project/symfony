@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/29674/branches/1.4/test/unit/widget
+END
+sfWidgetFormInputHiddenTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/23881/branches/1.4/test/unit/widget/sfWidgetFormInputHiddenTest.php
+END
+sfWidgetFormDateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/29674/branches/1.4/test/unit/widget/sfWidgetFormDateTest.php
+END
+sfWidgetFormTextareaTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/23881/branches/1.4/test/unit/widget/sfWidgetFormTextareaTest.php
+END
+sfWidgetFormSelectTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/24012/branches/1.4/test/unit/widget/sfWidgetFormSelectTest.php
+END
+sfWidgetFormTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/24137/branches/1.4/test/unit/widget/sfWidgetFormTest.php
+END
+sfWidgetFormSchemaFormatterListTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/23881/branches/1.4/test/unit/widget/sfWidgetFormSchemaFormatterListTest.php
+END
+sfWidgetFormInputPasswordTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/23881/branches/1.4/test/unit/widget/sfWidgetFormInputPasswordTest.php
+END
+sfWidgetFormFilterDateTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/24015/branches/1.4/test/unit/widget/sfWidgetFormFilterDateTest.php
+END
+sfWidgetFormSchemaFormatterTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/23881/branches/1.4/test/unit/widget/sfWidgetFormSchemaFormatterTest.php
+END
+sfWidgetFormSelectCheckboxTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/27738/branches/1.4/test/unit/widget/sfWidgetFormSelectCheckboxTest.php
+END
+sfWidgetFormSchemaForEachTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/23994/branches/1.4/test/unit/widget/sfWidgetFormSchemaForEachTest.php
+END
+sfWidgetFormInputFileEditableTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/24015/branches/1.4/test/unit/widget/sfWidgetFormInputFileEditableTest.php
+END
+sfWidgetFormDateRangeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/24015/branches/1.4/test/unit/widget/sfWidgetFormDateRangeTest.php
+END
+sfWidgetFormChoiceTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/29309/branches/1.4/test/unit/widget/sfWidgetFormChoiceTest.php
+END
+sfWidgetTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/23881/branches/1.4/test/unit/widget/sfWidgetTest.php
+END
+sfWidgetFormDateTimeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/29674/branches/1.4/test/unit/widget/sfWidgetFormDateTimeTest.php
+END
+sfWidgetFormSchemaFormatterTableTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/23881/branches/1.4/test/unit/widget/sfWidgetFormSchemaFormatterTableTest.php
+END
+sfWidgetFormSelectRadioTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/27738/branches/1.4/test/unit/widget/sfWidgetFormSelectRadioTest.php
+END
+sfWidgetFormTimeTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/29674/branches/1.4/test/unit/widget/sfWidgetFormTimeTest.php
+END
+sfWidgetFormInputFileTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/23881/branches/1.4/test/unit/widget/sfWidgetFormInputFileTest.php
+END
+sfWidgetFormSchemaTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/26870/branches/1.4/test/unit/widget/sfWidgetFormSchemaTest.php
+END
+sfWidgetFormSchemaDecoratorTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/23994/branches/1.4/test/unit/widget/sfWidgetFormSchemaDecoratorTest.php
+END
+sfWidgetFormInputTextTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/23881/branches/1.4/test/unit/widget/sfWidgetFormInputTextTest.php
+END
+sfWidgetFormSelectManyTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/23881/branches/1.4/test/unit/widget/sfWidgetFormSelectManyTest.php
+END
+sfWidgetFormFilterInputTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/24015/branches/1.4/test/unit/widget/sfWidgetFormFilterInputTest.php
+END
+sfWidgetFormInputCheckboxTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/23881/branches/1.4/test/unit/widget/sfWidgetFormInputCheckboxTest.php
+END

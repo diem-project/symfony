@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/phing
+END
+PropelCreoleTransformTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/phing/PropelCreoleTransformTask.php
+END
+PropelDataDTDTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/phing/PropelDataDTDTask.php
+END
+PropelConvertConfTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/phing/PropelConvertConfTask.php
+END
+PropelDataModelTemplateTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/phing/PropelDataModelTemplateTask.php
+END
+PropelDataSQLTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/phing/PropelDataSQLTask.php
+END
+PropelGraphvizTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/phing/PropelGraphvizTask.php
+END
+PropelOMTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/phing/PropelOMTask.php
+END
+PropelSchemaReverseTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/phing/PropelSchemaReverseTask.php
+END
+AbstractPropelDataModelTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/phing/AbstractPropelDataModelTask.php
+END
+PropelDataDumpTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/phing/PropelDataDumpTask.php
+END
+PropelSQLTask.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/phing/PropelSQLTask.php
+END
+PropelSQLExec.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/phing/PropelSQLExec.php
+END

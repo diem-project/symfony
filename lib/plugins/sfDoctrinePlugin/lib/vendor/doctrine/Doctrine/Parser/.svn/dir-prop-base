@@ -1,0 +1,6 @@
+K 13
+svn:externals
+V 64
+sfYaml http://svn.symfony-project.com/components/yaml/trunk/lib
+
+END

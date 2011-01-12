@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/plugins/sfAutoloadPlugin/lib
+END
+ExtendMe.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/plugins/sfAutoloadPlugin/lib/ExtendMe.class.php
+END
+BaseExtendMe.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/plugins/sfAutoloadPlugin/lib/BaseExtendMe.class.php
+END

@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/31396/branches/1.4/lib/helper
+END
+EscapingHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/23881/branches/1.4/lib/helper/EscapingHelper.php
+END
+TagHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/23881/branches/1.4/lib/helper/TagHelper.php
+END
+PartialHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/27755/branches/1.4/lib/helper/PartialHelper.php
+END
+DateHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/23881/branches/1.4/lib/helper/DateHelper.php
+END
+AssetHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/24289/branches/1.4/lib/helper/AssetHelper.php
+END
+HelperHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/23881/branches/1.4/lib/helper/HelperHelper.php
+END
+I18NHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/29597/branches/1.4/lib/helper/I18NHelper.php
+END
+JavascriptBaseHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/24499/branches/1.4/lib/helper/JavascriptBaseHelper.php
+END
+UrlHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/31396/branches/1.4/lib/helper/UrlHelper.php
+END
+CacheHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/23881/branches/1.4/lib/helper/CacheHelper.php
+END
+TextHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/29417/branches/1.4/lib/helper/TextHelper.php
+END
+DebugHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/23922/branches/1.4/lib/helper/DebugHelper.php
+END
+NumberHelper.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/23881/branches/1.4/lib/helper/NumberHelper.php
+END

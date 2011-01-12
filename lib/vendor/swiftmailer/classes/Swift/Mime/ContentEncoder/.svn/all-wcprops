@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Mime/ContentEncoder
+END
+QpContentEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Mime/ContentEncoder/QpContentEncoder.php
+END
+PlainContentEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Mime/ContentEncoder/PlainContentEncoder.php
+END
+Base64ContentEncoder.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Mime/ContentEncoder/Base64ContentEncoder.php
+END

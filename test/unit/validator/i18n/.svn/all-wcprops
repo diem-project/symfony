@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/23881/branches/1.4/test/unit/validator/i18n
+END
+sfValidatorI18nChoiceCountryTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/23881/branches/1.4/test/unit/validator/i18n/sfValidatorI18nChoiceCountryTest.php
+END
+sfValidatorI18nChoiceLanguageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/23881/branches/1.4/test/unit/validator/i18n/sfValidatorI18nChoiceLanguageTest.php
+END
+sfValidatorI18nChoiceTimezoneTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/23881/branches/1.4/test/unit/validator/i18n/sfValidatorI18nChoiceTimezoneTest.php
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/23881/branches/1.4/test/unit/util/fixtures/finder
+END
+file2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/23881/branches/1.4/test/unit/util/fixtures/finder/file2.txt
+END
+file1
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/23881/branches/1.4/test/unit/util/fixtures/finder/file1
+END
+FILE5.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/23881/branches/1.4/test/unit/util/fixtures/finder/FILE5.txt
+END

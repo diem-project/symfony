@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/30530/branches/1.4/lib/task/generator
+END
+sfGenerateAppTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/24039/branches/1.4/lib/task/generator/sfGenerateAppTask.class.php
+END
+sfGenerateTaskTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/27750/branches/1.4/lib/task/generator/sfGenerateTaskTask.class.php
+END
+sfGenerateModuleTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/23922/branches/1.4/lib/task/generator/sfGenerateModuleTask.class.php
+END
+sfGenerateProjectTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/30530/branches/1.4/lib/task/generator/sfGenerateProjectTask.class.php
+END
+sfGeneratorBaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/23881/branches/1.4/lib/task/generator/sfGeneratorBaseTask.class.php
+END

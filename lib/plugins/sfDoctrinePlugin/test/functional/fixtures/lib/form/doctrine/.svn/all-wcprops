@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/29660/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine
+END
+BaseFormDoctrine.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/BaseFormDoctrine.class.php
+END
+AuthorForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/AuthorForm.class.php
+END
+ArticleTranslationForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/ArticleTranslationForm.class.php
+END
+BlogAuthorForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/BlogAuthorForm.class.php
+END
+BlogArticleTranslationForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 137
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/BlogArticleTranslationForm.class.php
+END
+UniqueTestForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/UniqueTestForm.class.php
+END
+FormGeneratorTestForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/FormGeneratorTestForm.class.php
+END
+AuthorInheritanceForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 132
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/AuthorInheritanceForm.class.php
+END
+CamelCaseForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/CamelCaseForm.class.php
+END
+UserForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 119
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/UserForm.class.php
+END
+DefaultValueTestForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 131
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/DefaultValueTestForm.class.php
+END
+ArticleForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/ArticleForm.class.php
+END
+SubscriptionForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/SubscriptionForm.class.php
+END
+BlogArticleForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/BlogArticleForm.class.php
+END
+AttachmentForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/24971/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/AttachmentForm.class.php
+END
+PermissionForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/PermissionForm.class.php
+END
+ResourceTypeForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/!svn/ver/27742/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/ResourceTypeForm.class.php
+END
+GroupForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/GroupForm.class.php
+END
+AuthorInheritanceConcreteForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/AuthorInheritanceConcreteForm.class.php
+END
+ProfileForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/form/doctrine/ProfileForm.class.php
+END

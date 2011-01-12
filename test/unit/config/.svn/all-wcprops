@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/24039/branches/1.4/test/unit/config
+END
+sfSimpleYamlConfigHandlerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/23881/branches/1.4/test/unit/config/sfSimpleYamlConfigHandlerTest.php
+END
+sfConfigHandlerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/23881/branches/1.4/test/unit/config/sfConfigHandlerTest.php
+END
+sfDefineEnvironmentConfigHandlerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/23881/branches/1.4/test/unit/config/sfDefineEnvironmentConfigHandlerTest.php
+END
+sfConfigTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/23881/branches/1.4/test/unit/config/sfConfigTest.php
+END
+sfPluginConfigurationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/23881/branches/1.4/test/unit/config/sfPluginConfigurationTest.php
+END
+sfYamlConfigHandlerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/23881/branches/1.4/test/unit/config/sfYamlConfigHandlerTest.php
+END
+sfFilterConfigHandlerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/23881/branches/1.4/test/unit/config/sfFilterConfigHandlerTest.php
+END
+sfGeneratorConfigHandlerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/23881/branches/1.4/test/unit/config/sfGeneratorConfigHandlerTest.php
+END
+sfProjectConfigurationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/24039/branches/1.4/test/unit/config/sfProjectConfigurationTest.php
+END
+sfViewConfigHandlerTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/23881/branches/1.4/test/unit/config/sfViewConfigHandlerTest.php
+END

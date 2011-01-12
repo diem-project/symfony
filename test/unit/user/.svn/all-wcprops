@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/24045/branches/1.4/test/unit/user
+END
+sfBasicSecurityUserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/24045/branches/1.4/test/unit/user/sfBasicSecurityUserTest.php
+END
+sfUserTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/23881/branches/1.4/test/unit/user/sfUserTest.php
+END

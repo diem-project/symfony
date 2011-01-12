@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/23881/branches/1.4/test/unit/plugin/fixtures/http/pear.example.com/REST/r/sffooplugin
+END
+deps.1.0.0.txt
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/23881/branches/1.4/test/unit/plugin/fixtures/http/pear.example.com/REST/r/sffooplugin/deps.1.0.0.txt
+END
+1.0.0.xml
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/23881/branches/1.4/test/unit/plugin/fixtures/http/pear.example.com/REST/r/sffooplugin/1.0.0.xml
+END
+allreleases.xml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/23881/branches/1.4/test/unit/plugin/fixtures/http/pear.example.com/REST/r/sffooplugin/allreleases.xml
+END

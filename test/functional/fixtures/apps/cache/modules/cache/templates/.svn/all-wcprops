@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/24615/branches/1.4/test/functional/fixtures/apps/cache/modules/cache/templates
+END
+componentSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/cache/modules/cache/templates/componentSuccess.php
+END
+_partial.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/cache/modules/cache/templates/_partial.php
+END
+indexSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/cache/modules/cache/templates/indexSuccess.php
+END
+_component.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/cache/modules/cache/templates/_component.php
+END
+_contextualPartial.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/cache/modules/cache/templates/_contextualPartial.php
+END
+_cacheablePartial.php
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/cache/modules/cache/templates/_cacheablePartial.php
+END
+listSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/24615/branches/1.4/test/functional/fixtures/apps/cache/modules/cache/templates/listSuccess.php
+END
+pageSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/cache/modules/cache/templates/pageSuccess.php
+END
+anotherPartialSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/cache/modules/cache/templates/anotherPartialSuccess.php
+END
+actionSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/cache/modules/cache/templates/actionSuccess.php
+END
+_contextualComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/cache/modules/cache/templates/_contextualComponent.php
+END
+_cacheableComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 112
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/cache/modules/cache/templates/_cacheableComponent.php
+END
+_contextualCacheablePartial.php
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/cache/modules/cache/templates/_contextualCacheablePartial.php
+END
+imageSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/cache/modules/cache/templates/imageSuccess.php
+END
+specificCacheKeySuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/cache/modules/cache/templates/specificCacheKeySuccess.php
+END
+_contextualCacheableComponent.php
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/cache/modules/cache/templates/_contextualCacheableComponent.php
+END
+multiBisSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/cache/modules/cache/templates/multiBisSuccess.php
+END
+multiSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/cache/modules/cache/templates/multiSuccess.php
+END
+_anotherCacheablePartial.php
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/cache/modules/cache/templates/_anotherCacheablePartial.php
+END
+partialSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/cache/modules/cache/templates/partialSuccess.php
+END

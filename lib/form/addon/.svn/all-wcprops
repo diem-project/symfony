@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/!svn/ver/23881/branches/1.4/lib/form/addon
+END
+sfFormSymfony.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/23881/branches/1.4/lib/form/addon/sfFormSymfony.class.php
+END
+sfFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/23881/branches/1.4/lib/form/addon/sfFormFilter.class.php
+END
+sfFormObject.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/23881/branches/1.4/lib/form/addon/sfFormObject.class.php
+END

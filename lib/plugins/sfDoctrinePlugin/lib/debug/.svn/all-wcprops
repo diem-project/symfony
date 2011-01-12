@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/28999/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/debug
+END
+sfWebDebugPanelDoctrine.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/28999/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/debug/sfWebDebugPanelDoctrine.class.php
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/lib
+END
+ExtendMe.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/lib/ExtendMe.class.php
+END
+myLibClass.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/lib/myLibClass.class.php
+END

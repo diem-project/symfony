@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/!svn/ver/23922/branches/1.4/lib/widget/i18n
+END
+sfWidgetFormI18nChoiceCurrency.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/23881/branches/1.4/lib/widget/i18n/sfWidgetFormI18nChoiceCurrency.class.php
+END
+sfWidgetFormI18nChoiceTimezone.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/23881/branches/1.4/lib/widget/i18n/sfWidgetFormI18nChoiceTimezone.class.php
+END
+sfWidgetFormI18nDateTime.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/23881/branches/1.4/lib/widget/i18n/sfWidgetFormI18nDateTime.class.php
+END
+sfWidgetFormI18nDate.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/23881/branches/1.4/lib/widget/i18n/sfWidgetFormI18nDate.class.php
+END
+sfWidgetFormI18nChoiceCountry.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/23881/branches/1.4/lib/widget/i18n/sfWidgetFormI18nChoiceCountry.class.php
+END
+sfWidgetFormI18nChoiceLanguage.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/23881/branches/1.4/lib/widget/i18n/sfWidgetFormI18nChoiceLanguage.class.php
+END
+sfWidgetFormI18nTime.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/23881/branches/1.4/lib/widget/i18n/sfWidgetFormI18nTime.class.php
+END

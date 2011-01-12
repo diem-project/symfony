@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/29678/branches/1.4/lib/form
+END
+sfForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/!svn/ver/29678/branches/1.4/lib/form/sfForm.class.php
+END
+sfFormField.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/23881/branches/1.4/lib/form/sfFormField.class.php
+END
+sfFormFieldSchema.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/23881/branches/1.4/lib/form/sfFormFieldSchema.class.php
+END

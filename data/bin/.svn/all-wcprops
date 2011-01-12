@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/30952/branches/1.4/data/bin
+END
+sandbox_installer.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/23881/branches/1.4/data/bin/sandbox_installer.php
+END
+symfony
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/23881/branches/1.4/data/bin/symfony
+END
+release.php
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/24079/branches/1.4/data/bin/release.php
+END
+symfony.bat
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/23948/branches/1.4/data/bin/symfony.bat
+END
+check_configuration.php
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/28712/branches/1.4/data/bin/check_configuration.php
+END
+create_sandbox.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/!svn/ver/23881/branches/1.4/data/bin/create_sandbox.sh
+END
+changelog.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/30952/branches/1.4/data/bin/changelog.php
+END

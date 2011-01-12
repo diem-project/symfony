@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/!svn/ver/24971/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/modules/attachment/templates
+END
+editableInput.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/24971/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/modules/attachment/templates/editableInput.php
+END
+indexSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 142
+/!svn/ver/24068/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/modules/attachment/templates/indexSuccess.php
+END
+editableSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/24971/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/modules/attachment/templates/editableSuccess.php
+END
+indexInput.php
+K 25
+svn:wc:ra_dav:version-url
+V 140
+/!svn/ver/24068/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/apps/frontend/modules/attachment/templates/indexInput.php
+END

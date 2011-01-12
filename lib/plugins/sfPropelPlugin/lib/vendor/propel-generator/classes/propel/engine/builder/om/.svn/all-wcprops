@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/engine/builder/om
+END
+ObjectBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/engine/builder/om/ObjectBuilder.php
+END
+OMBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/engine/builder/om/OMBuilder.php
+END
+PeerBuilder.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/engine/builder/om/PeerBuilder.php
+END
+ClassTools.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/1695/tags/1.4.2/generator/classes/propel/engine/builder/om/ClassTools.php
+END

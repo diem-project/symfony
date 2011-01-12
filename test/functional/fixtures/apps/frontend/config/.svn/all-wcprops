@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/24434/branches/1.4/test/functional/fixtures/apps/frontend/config
+END
+factories.yml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/24434/branches/1.4/test/functional/fixtures/apps/frontend/config/factories.yml
+END
+app.yml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/frontend/config/app.yml
+END
+settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/frontend/config/settings.yml
+END
+frontendConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/frontend/config/frontendConfiguration.class.php
+END
+cache.yml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/frontend/config/cache.yml
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/frontend/config/routing.yml
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/frontend/config/security.yml
+END
+filters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/frontend/config/filters.yml
+END
+view.yml
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/frontend/config/view.yml
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/7490/branches/1.2/lib/Doctrine/Collection
+END
+Iterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/7490/branches/1.2/lib/Doctrine/Collection/Iterator.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/7490/branches/1.2/lib/Doctrine/Collection/Exception.php
+END
+OnDemand.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/7490/branches/1.2/lib/Doctrine/Collection/OnDemand.php
+END
+Offset.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/7490/branches/1.2/lib/Doctrine/Collection/Offset.php
+END

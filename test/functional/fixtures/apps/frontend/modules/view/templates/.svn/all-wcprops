@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/frontend/modules/view/templates
+END
+imageSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/frontend/modules/view/templates/imageSuccess.php
+END
+fooSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/frontend/modules/view/templates/fooSuccess.php
+END
+plainSuccess.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/frontend/modules/view/templates/plainSuccess.php
+END

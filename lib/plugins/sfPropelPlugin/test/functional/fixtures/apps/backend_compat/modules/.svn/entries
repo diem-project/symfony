@@ -1,0 +1,40 @@
+10
+
+dir
+31811
+http://svn.symfony-project.com/branches/1.4/lib/plugins/sfPropelPlugin/test/functional/fixtures/apps/backend_compat/modules
+http://svn.symfony-project.com
+
+
+
+2009-09-11T07:38:24.815935Z
+21884
+fabien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+article
+dir
+
+error
+dir
+
+inheritance
+dir
+
+validation
+dir
+

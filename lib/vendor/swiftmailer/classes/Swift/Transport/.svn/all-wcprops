@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Transport
+END
+SendmailTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Transport/SendmailTransport.php
+END
+SpoolTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Transport/SpoolTransport.php
+END
+SimpleMailInvoker.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Transport/SimpleMailInvoker.php
+END
+MailTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Transport/MailTransport.php
+END
+MailInvoker.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Transport/MailInvoker.php
+END
+IoBuffer.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Transport/IoBuffer.php
+END
+SmtpAgent.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Transport/SmtpAgent.php
+END
+AbstractSmtpTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Transport/AbstractSmtpTransport.php
+END
+FailoverTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Transport/FailoverTransport.php
+END
+EsmtpTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Transport/EsmtpTransport.php
+END
+StreamBuffer.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Transport/StreamBuffer.php
+END
+EsmtpHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Transport/EsmtpHandler.php
+END
+LoadBalancedTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Transport/LoadBalancedTransport.php
+END
+NullTransport.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/Transport/NullTransport.php
+END

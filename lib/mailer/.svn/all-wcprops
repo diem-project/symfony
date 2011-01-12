@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/!svn/ver/28841/branches/1.4/lib/mailer
+END
+sfMailerMessageLoggerPlugin.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/23881/branches/1.4/lib/mailer/sfMailerMessageLoggerPlugin.class.php
+END
+sfMailer.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/!svn/ver/28841/branches/1.4/lib/mailer/sfMailer.class.php
+END

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/30901/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task
+END
+sfDoctrineInsertSqlTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/!svn/ver/27942/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineInsertSqlTask.class.php
+END
+sfDoctrineCleanModelFilesTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/29677/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineCleanModelFilesTask.class.php
+END
+sfDoctrineGenerateModuleForRouteTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineGenerateModuleForRouteTask.class.php
+END
+sfDoctrineBuildFiltersTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/!svn/ver/23927/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineBuildFiltersTask.class.php
+END
+sfDoctrineMigrateTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/23922/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineMigrateTask.class.php
+END
+sfDoctrineGenerateMigrationsModelsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/!svn/ver/23922/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineGenerateMigrationsModelsTask.class.php
+END
+sfDoctrineGenerateMigrationsDbTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/!svn/ver/23922/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineGenerateMigrationsDbTask.class.php
+END
+sfDoctrineDataDumpTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/23922/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineDataDumpTask.class.php
+END
+sfDoctrineBuildTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineBuildTask.class.php
+END
+sfDoctrineGenerateModuleTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/24637/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineGenerateModuleTask.class.php
+END
+sfDoctrineGenerateAdminTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/28809/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineGenerateAdminTask.class.php
+END
+sfDoctrineGenerateMigrationTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/24390/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineGenerateMigrationTask.class.php
+END
+sfDoctrineBuildDbTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/24341/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineBuildDbTask.class.php
+END
+sfDoctrineDeleteModelFilesTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/29677/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineDeleteModelFilesTask.class.php
+END
+sfDoctrineConfigureDatabaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineConfigureDatabaseTask.class.php
+END
+sfDoctrineBuildFormsTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/23927/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineBuildFormsTask.class.php
+END
+sfDoctrineDataLoadTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/23922/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineDataLoadTask.class.php
+END
+sfDoctrineDropDbTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/24341/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineDropDbTask.class.php
+END
+sfDoctrineBaseTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/!svn/ver/28976/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineBaseTask.class.php
+END
+sfDoctrineCreateModelTablesTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/!svn/ver/23922/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineCreateModelTablesTask.class.php
+END
+sfDoctrineBuildSqlTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/23922/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineBuildSqlTask.class.php
+END
+sfDoctrineDqlTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/24625/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineDqlTask.class.php
+END
+sfDoctrineBuildSchemaTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/23922/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineBuildSchemaTask.class.php
+END
+sfDoctrineBuildModelTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/!svn/ver/30901/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineBuildModelTask.class.php
+END
+sfDoctrineGenerateMigrationsDiffTask.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/!svn/ver/28871/branches/1.4/lib/plugins/sfDoctrinePlugin/lib/task/sfDoctrineGenerateMigrationsDiffTask.class.php
+END

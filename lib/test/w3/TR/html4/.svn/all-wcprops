@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/23881/branches/1.4/lib/test/w3/TR/html4
+END
+HTMLsymbol.ent
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/23881/branches/1.4/lib/test/w3/TR/html4/HTMLsymbol.ent
+END
+strict.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/23881/branches/1.4/lib/test/w3/TR/html4/strict.dtd
+END
+HTMLspecial.ent
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/23881/branches/1.4/lib/test/w3/TR/html4/HTMLspecial.ent
+END
+HTMLlat1.ent
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/23881/branches/1.4/lib/test/w3/TR/html4/HTMLlat1.ent
+END
+loose.dtd
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/23881/branches/1.4/lib/test/w3/TR/html4/loose.dtd
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/24022/components/event_dispatcher/branches/1.0/lib
+END
+sfEvent.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/24022/components/event_dispatcher/branches/1.0/lib/sfEvent.php
+END
+sfEventDispatcher.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/24022/components/event_dispatcher/branches/1.0/lib/sfEventDispatcher.php
+END

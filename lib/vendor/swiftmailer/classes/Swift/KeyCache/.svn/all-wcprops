@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/KeyCache
+END
+ArrayKeyCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/KeyCache/ArrayKeyCache.php
+END
+SimpleKeyCacheInputStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/KeyCache/SimpleKeyCacheInputStream.php
+END
+DiskKeyCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/KeyCache/DiskKeyCache.php
+END
+NullKeyCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/KeyCache/NullKeyCache.php
+END
+KeyCacheInputStream.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/!svn/ver/23881/branches/1.4/lib/vendor/swiftmailer/classes/Swift/KeyCache/KeyCacheInputStream.php
+END

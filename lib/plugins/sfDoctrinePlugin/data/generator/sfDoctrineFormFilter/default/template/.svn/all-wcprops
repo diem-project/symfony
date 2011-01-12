@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/!svn/ver/29570/branches/1.4/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineFormFilter/default/template
+END
+sfDoctrineFormFilterGeneratedInheritanceTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 163
+/!svn/ver/29570/branches/1.4/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineFormFilter/default/template/sfDoctrineFormFilterGeneratedInheritanceTemplate.php
+END
+sfDoctrineFormFilterBaseTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 147
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineFormFilter/default/template/sfDoctrineFormFilterBaseTemplate.php
+END
+sfDoctrineFormFilterGeneratedTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 152
+/!svn/ver/29570/branches/1.4/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineFormFilter/default/template/sfDoctrineFormFilterGeneratedTemplate.php
+END
+sfDoctrineFormFilterPluginTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineFormFilter/default/template/sfDoctrineFormFilterPluginTemplate.php
+END
+sfDoctrinePluginFormFilterTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 149
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineFormFilter/default/template/sfDoctrinePluginFormFilterTemplate.php
+END
+sfDoctrineFormFilterTemplate.php
+K 25
+svn:wc:ra_dav:version-url
+V 143
+/!svn/ver/23881/branches/1.4/lib/plugins/sfDoctrinePlugin/data/generator/sfDoctrineFormFilter/default/template/sfDoctrineFormFilterTemplate.php
+END

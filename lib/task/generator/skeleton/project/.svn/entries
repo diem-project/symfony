@@ -1,0 +1,89 @@
+10
+
+dir
+31811
+http://svn.symfony-project.com/branches/1.4/lib/task/generator/skeleton/project
+http://svn.symfony-project.com
+
+
+
+2009-10-25T13:11:48.154419Z
+23322
+Kris.Wallsmith
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ee427ae8-e902-0410-961c-c3ed070cd9f9
+
+test
+dir
+
+log
+dir
+
+plugins
+dir
+
+apps
+dir
+
+cache
+dir
+
+symfony
+file
+
+
+
+
+2011-01-12T14:22:58.000000Z
+ec0244c82ba8f52899e48b4e473f78e8
+2008-11-27T18:10:40.723278Z
+13444
+fabien
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+446
+
+config
+dir
+
+lib
+dir
+
+data
+dir
+
+web
+dir
+

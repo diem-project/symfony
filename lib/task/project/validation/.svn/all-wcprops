@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/25411/branches/1.4/lib/task/project/validation
+END
+sfDeprecatedSettingsValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/!svn/ver/25410/branches/1.4/lib/task/project/validation/sfDeprecatedSettingsValidation.class.php
+END
+sfDeprecatedPluginsValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/25410/branches/1.4/lib/task/project/validation/sfDeprecatedPluginsValidation.class.php
+END
+sfDeprecatedHelpersValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/25411/branches/1.4/lib/task/project/validation/sfDeprecatedHelpersValidation.class.php
+END
+sfDeprecatedMethodsValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/25411/branches/1.4/lib/task/project/validation/sfDeprecatedMethodsValidation.class.php
+END
+sfDeprecatedConfigurationFilesValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/!svn/ver/24610/branches/1.4/lib/task/project/validation/sfDeprecatedConfigurationFilesValidation.class.php
+END
+sfDeprecatedClassesValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/!svn/ver/25411/branches/1.4/lib/task/project/validation/sfDeprecatedClassesValidation.class.php
+END
+sfParameterHolderValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/25411/branches/1.4/lib/task/project/validation/sfParameterHolderValidation.class.php
+END
+sfValidation.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/!svn/ver/24610/branches/1.4/lib/task/project/validation/sfValidation.class.php
+END

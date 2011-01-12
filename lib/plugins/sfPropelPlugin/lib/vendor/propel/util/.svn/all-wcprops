@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/util
+END
+DebugPDO.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/util/DebugPDO.php
+END
+PropelConfiguration.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/util/PropelConfiguration.php
+END
+DebugPDOStatement.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/util/DebugPDOStatement.php
+END
+PropelDateTime.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/util/PropelDateTime.php
+END
+Join.php
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/util/Join.php
+END
+PropelPager.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/util/PropelPager.php
+END
+NodePeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/util/NodePeer.php
+END
+Criteria.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/util/Criteria.php
+END
+PropelConfigurationIterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/util/PropelConfigurationIterator.php
+END
+PropelColumnTypes.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/util/PropelColumnTypes.php
+END
+PropelPDO.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/util/PropelPDO.php
+END
+BasePeer.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/1695/tags/1.4.2/runtime/classes/propel/util/BasePeer.php
+END

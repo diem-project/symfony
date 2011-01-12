@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/29656/branches/1.4/lib/generator
+END
+sfModelGeneratorConfiguration.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/!svn/ver/29656/branches/1.4/lib/generator/sfModelGeneratorConfiguration.class.php
+END
+sfGeneratorManager.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/23922/branches/1.4/lib/generator/sfGeneratorManager.class.php
+END
+sfModelGeneratorConfigurationField.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/23881/branches/1.4/lib/generator/sfModelGeneratorConfigurationField.class.php
+END
+sfGenerator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/23881/branches/1.4/lib/generator/sfGenerator.class.php
+END
+sfModelGenerator.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/25459/branches/1.4/lib/generator/sfModelGenerator.class.php
+END
+sfModelGeneratorHelper.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/23881/branches/1.4/lib/generator/sfModelGeneratorHelper.class.php
+END

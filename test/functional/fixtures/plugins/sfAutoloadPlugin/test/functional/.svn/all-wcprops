@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/plugins/sfAutoloadPlugin/test/functional
+END
+FooFunctionalTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/plugins/sfAutoloadPlugin/test/functional/FooFunctionalTest.php
+END
+BarFunctionalTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 116
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/plugins/sfAutoloadPlugin/test/functional/BarFunctionalTest.php
+END

@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 117
+/!svn/ver/29660/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/SettingsPlugin
+END
+SettingFormFilter.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 145
+/!svn/ver/28974/branches/1.4/lib/plugins/sfDoctrinePlugin/test/functional/fixtures/lib/filter/doctrine/SettingsPlugin/SettingFormFilter.class.php
+END

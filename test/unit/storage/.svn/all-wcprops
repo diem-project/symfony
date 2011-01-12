@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/!svn/ver/23947/branches/1.4/test/unit/storage
+END
+sfNoStorageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/23881/branches/1.4/test/unit/storage/sfNoStorageTest.php
+END
+sfMySQLiStorageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/23881/branches/1.4/test/unit/storage/sfMySQLiStorageTest.php
+END
+sfStorageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/23881/branches/1.4/test/unit/storage/sfStorageTest.php
+END
+sfSessionStorageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/23947/branches/1.4/test/unit/storage/sfSessionStorageTest.php
+END
+sfMySQLStorageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/23881/branches/1.4/test/unit/storage/sfMySQLStorageTest.php
+END
+sfPDOSessionStorageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/23881/branches/1.4/test/unit/storage/sfPDOSessionStorageTest.php
+END
+sfCacheSessionStorageTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/!svn/ver/23881/branches/1.4/test/unit/storage/sfCacheSessionStorageTest.php
+END

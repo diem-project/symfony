@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/i18n/i18n
+END
+other.fr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/i18n/i18n/other.fr.xml
+END
+messages.fr.xml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/i18n/i18n/messages.fr.xml
+END

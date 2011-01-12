@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfDefineEnvironmentConfigHandler
+END
+prefix_default.yml
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfDefineEnvironmentConfigHandler/prefix_default.yml
+END
+prefix_result.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfDefineEnvironmentConfigHandler/prefix_result.php
+END
+prefix_all.yml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/!svn/ver/23881/branches/1.4/test/unit/config/fixtures/sfDefineEnvironmentConfigHandler/prefix_all.yml
+END

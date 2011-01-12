@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/i18n/modules/i18n/lib
+END
+I18nCustomCatalogueForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 114
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/i18n/modules/i18n/lib/I18nCustomCatalogueForm.class.php
+END
+I18nForm.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/i18n/modules/i18n/lib/I18nForm.class.php
+END

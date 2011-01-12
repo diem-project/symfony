@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/cache/templates
+END
+layout.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/cache/templates/layout.php
+END
+image.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/!svn/ver/23881/branches/1.4/test/functional/fixtures/apps/cache/templates/image.php
+END
