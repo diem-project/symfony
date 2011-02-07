@@ -73,7 +73,7 @@ EOF;
     // markup base classes with magic methods
     foreach (sfYaml::load($schema) as $model => $definition)
     {
-      $file = sprintf('%s%s/%s/Base%s%s', $config['models_path'], !isset($definition['package']) ? '' : strpos($definition['package'],'.') ? '/'.substr($definition['package'], 0, strpos($definition['package'], '.')) : '/'.$definition['package'], $builderOptions['baseClassesDirectory'], $model, $builderOptions['suffix']);
+      $file = sprintf('%s%s/%s/Base%s%s', $config['models_path'], !array_key_exists('package', $definition) ? '' : strpos($definition['package'],'.') ? '/'.substr($definition['package'], 0, strpos($definition['package'], '.')) : '/'.$definition['package'], $builderOptions['baseClassesDirectory'], $model, $builderOptions['suffix']);
       $code = file_get_contents($file);
 
       // introspect the model without loading the class
