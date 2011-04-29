@@ -134,4 +134,10 @@ class sfValidatorChoice extends sfValidatorBase
 
     return false;
   }
+
+  protected function isEmpty($value)
+  {
+    $isMultipleEmpty = is_array($value) && count($value)==1 && $this->isEmpty($value[0]);
+    return parent::isEmpty($value) || $isMultipleEmpty;
+  }
 }
