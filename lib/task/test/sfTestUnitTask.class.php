@@ -96,6 +96,7 @@ EOF;
       $h = new sfLimeHarness(array(
         'force_colors' => isset($options['color']) && $options['color'],
         'verbose'      => isset($options['trace']) && $options['trace'],
+        'test_path'    => sfConfig::get('sf_cache_dir') . '/tests'
       ));
       $h->addPlugins(array_map(array($this->configuration, 'getPluginConfiguration'), $this->configuration->getPlugins()));
       $h->base_dir = sfConfig::get('sf_test_dir').'/unit';
