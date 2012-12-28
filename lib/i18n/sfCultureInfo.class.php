@@ -772,16 +772,20 @@ class sfCultureInfo
       $allCurrencies = array_intersect_key($allCurrencies, array_flip($currencies));
     }
 
-    if (!$full)
+    foreach ($allCurrencies as $key => $value)
     {
-      foreach ($allCurrencies as $key => $value)
-      {
-        $allCurrencies[$key] = $value[1];
-      }
+      $allCurrencies[$key] = $value[1];
     }
 
     $this->sortArray($allCurrencies);
 
+    if ($full)
+    {
+        foreach ($allCurrencies as $key => $value)
+        {
+          $allCurrencies[$key] = array($key, $value);
+        }
+    }
     return $allCurrencies;
   }
 
