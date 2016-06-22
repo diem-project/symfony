@@ -10,7 +10,7 @@
 
 require_once(dirname(__FILE__).'/../../bootstrap/unit.php');
 
-$t = new lime_test(95);
+$t = new lime_test(93);
 
 // ::stringToArray()
 $t->diag('::stringToArray()');
@@ -26,8 +26,6 @@ $tests = array(
   'foo1="l\'autre" foo=bar' => array('foo1' => 'l\'autre', 'foo' => 'bar'),
   'foo1="l"autre" foo=bar' => array('foo1' => 'l"autre', 'foo' => 'bar'),
   'foo_1=bar_1' => array('foo_1' => 'bar_1'),
-  'data-foo=bar' => array('data-foo' => 'bar'),
-  'data-foo-bar=baz' => array('data-foo-bar' => 'baz'),
 );
 
 foreach ($tests as $string => $attributes)
