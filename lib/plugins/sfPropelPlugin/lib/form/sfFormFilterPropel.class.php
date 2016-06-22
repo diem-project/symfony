@@ -263,10 +263,15 @@ abstract class sfFormFilterPropel extends sfFormFilter
 
   protected function camelize($text)
   {
-    return preg_replace_callback_array(array(
-      '#/(.?)#' => function ($matches) { return '::'.strtoupper($matches[1]); },
-      '/(^|_|-)+(.)/' => function ($matches) { return strtoupper($matches[2]); }
-    ), $text);
+    return preg_replace_callback(
+      '#/(.?)#',
+      function ($matches) { return '::'.strtoupper($matches[1]); },
+      preg_replace_callback(
+        '/(^|_|-)+(.)/',
+        function ($matches) { return strtoupper($matches[2]); },
+        $lower_case_and_underscored_word
+      )
+    );
 
   }
 }
