@@ -10,7 +10,7 @@
 
 /**
  * Base class for forms that deal with a single object.
- * 
+ *
  * @package    symfony
  * @subpackage form
  * @author     Kris Wallsmith <kris.wallsmith@symfony-project.com>
@@ -24,7 +24,7 @@ abstract class sfFormObject extends BaseForm
 
   /**
    * Returns the current model name.
-   * 
+   *
    * @return string
    */
   abstract public function getModelName();
@@ -50,7 +50,7 @@ abstract class sfFormObject extends BaseForm
    * Processes cleaned up values.
    *
    * @param  array $values An array of values
-   * 
+   *
    * @return array An array of cleaned up values
    */
   abstract public function processValues($values);
@@ -108,7 +108,7 @@ abstract class sfFormObject extends BaseForm
    * @return mixed The current saved object
    *
    * @see doSave()
-   * 
+   *
    * @throws sfValidatorError If the form is not valid
    */
   public function save($con = null)
@@ -278,6 +278,10 @@ abstract class sfFormObject extends BaseForm
 
   protected function camelize($text)
   {
-    return preg_replace(array('#/(.?)#e', '/(^|_|-)+(.)/e'), array("'::'.strtoupper('\\1')", "strtoupper('\\2')"), $text);
+    return preg_replace_callback_array(array(
+      '#/(.?)#' => function ($matches) { return '::'.strtoupper($matches[1]); },
+      '/(^|_|-)+(.)/' => function ($matches) { return strtoupper($matches[2]); }
+      ), $text
+    );
   }
 }
