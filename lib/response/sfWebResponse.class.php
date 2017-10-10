@@ -16,7 +16,7 @@
  * @package    symfony
  * @subpackage response
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfWebResponse.class.php 31399 2010-11-15 16:48:22Z fabien $
+ * @version    SVN: $Id$
  */
 class sfWebResponse extends sfResponse
 {
@@ -97,7 +97,7 @@ class sfWebResponse extends sfResponse
    * @param  sfEventDispatcher $dispatcher  An sfEventDispatcher instance
    * @param  array             $options     An array of options
    *
-   * @return bool true, if initialization completes successfully, otherwise false
+   * @return void
    *
    * @throws <b>sfInitializationException</b> If an error occurs while initializing this sfResponse
    *
@@ -395,17 +395,12 @@ class sfWebResponse extends sfResponse
   {
     $this->sendHttpHeaders();
     $this->sendContent();
-  }
 
-  /**
-   * callback function for preg_replace in normalizeHeaderName
-   *
-   * @param string $matches
-   *
-   * @return string Normalized uppercased matches
-   */
-  protected function pregReplaceCallback($matches) {
-    return '-'.strtoupper($matches[1]);
+    if (function_exists('fastcgi_finish_request'))
+    {
+      $this->dispatcher->notify(new sfEvent($this, 'response.fastcgi_finish_request'));
+      fastcgi_finish_request();
+    }
   }
 
   /**
@@ -417,11 +412,7 @@ class sfWebResponse extends sfResponse
    */
   protected function normalizeHeaderName($name)
   {
-    return preg_replace_callback(
-      '/\-(.)/',
-      array($this, 'pregReplaceCallback'),
-      strtr(ucfirst(strtolower($name)), '_', '-')
-    );
+    return strtr(ucwords(strtr(strtolower($name), array('_' => ' ', '-' => ' '))), array(' ' => '-'));
   }
 
   /**
@@ -494,7 +485,7 @@ class sfWebResponse extends sfResponse
         $currentHeaders[$tmp[0]] = isset($tmp[1]) ? $tmp[1] : null;
       }
     }
-    $currentHeaders[strtr(strtolower($name), '_', '-')] = $value;
+    $currentHeaders[str_replace('_', '-', strtolower($name))] = $value;
 
     $headers = array();
     foreach ($currentHeaders as $key => $value)
@@ -603,6 +594,32 @@ class sfWebResponse extends sfResponse
   }
 
   /**
+   * Preprend title
+   *
+   * @param string  $title      Title name
+   * @param string  $separator  Separator string (default: " - ")
+   * @param boolean $escape     true, for escaping the title
+   */
+  public function prependTitle($title, $separator = ' - ', $escape = true)
+  {
+    if (!isset($this->metas['title']))
+    {
+      $this->setTitle($title);
+
+      return;
+    }
+
+    // FIXME: If you use the i18n layer and escape the data here, it won't work
+    // see include_metas() in AssetHelper
+    if ($escape)
+    {
+      $title = htmlspecialchars($title, ENT_QUOTES, $this->options['charset']);
+    }
+
+    $this->metas['title'] = $title.$separator.$this->metas['title'];
+  }
+
+  /**
    * Sets title for the current web response.
    *
    * @param string  $title   Title name
@@ -663,7 +680,7 @@ class sfWebResponse extends sfResponse
    *
    * @param string $file      The stylesheet file
    * @param string $position  Position
-   * @param string $options   Stylesheet options
+   * @param array  $options   Stylesheet options
    */
   public function addStylesheet($file, $position = '', $options = array())
   {
@@ -682,6 +699,17 @@ class sfWebResponse extends sfResponse
     foreach ($this->getPositions() as $position)
     {
       unset($this->stylesheets[$position][$file]);
+    }
+  }
+
+  /**
+   * Clear all previously added stylesheets
+   */
+  public function clearStylesheets()
+  {
+    foreach (array_keys($this->getStylesheets()) as $file)
+    {
+      $this->removeStylesheet($file);
     }
   }
 
@@ -725,7 +753,7 @@ class sfWebResponse extends sfResponse
    *
    * @param string $file      The JavaScript file
    * @param string $position  Position
-   * @param string $options   Javascript options
+   * @param array  $options   Javascript options
    */
   public function addJavascript($file, $position = '', $options = array())
   {
@@ -744,6 +772,17 @@ class sfWebResponse extends sfResponse
     foreach ($this->getPositions() as $position)
     {
       unset($this->javascripts[$position][$file]);
+    }
+  }
+
+  /**
+   * Clear all previously added javascripts
+   */
+  public function clearJavascripts()
+  {
+    foreach (array_keys($this->getJavascripts()) as $file)
+    {
+      $this->removeJavascript($file);
     }
   }
 
@@ -842,6 +881,7 @@ class sfWebResponse extends sfResponse
 
   /**
    * @see sfResponse
+   * @inheritdoc
    */
   public function unserialize($serialized)
   {

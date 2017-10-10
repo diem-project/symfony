@@ -21,7 +21,7 @@
  * @subpackage form
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
  * @author     Jonathan H. Wage <jonwage@gmail.com>
- * @version    SVN: $Id: sfFormFilterDoctrine.class.php 33150 2011-10-24 07:57:16Z fabien $
+ * @version    SVN: $Id$
  */
 abstract class sfFormFilterDoctrine extends sfFormFilter
 {
@@ -323,17 +323,7 @@ abstract class sfFormFilterDoctrine extends sfFormFilter
 
   protected function camelize($text)
   {
-    return preg_replace_callback(
-      '#/(.?)#',
-      function ($matches) { return '::'.strtoupper($matches[1]); },
-      preg_replace_callback(
-        '/(^|_|-)+(.)/',
-        function ($matches) { return strtoupper($matches[2]); },
-        $text
-      )
-    );
-
-
+    return strtr(ucwords(strtr($text, array('/' => ':: ', '_' => ' ', '-' => ' '))), array(' ' => ''));
   }
 
   protected function getTable()

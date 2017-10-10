@@ -26,7 +26,7 @@
  * @package    symfony
  * @subpackage util
  * @author     Fabien Potencier <fabien.potencier@symfony-project.com>
- * @version    SVN: $Id: sfFinder.class.php 32891 2011-08-05 07:48:34Z fabien $
+ * @version    SVN: $Id$
  */
 class sfFinder
 {
@@ -617,7 +617,7 @@ class sfFinder
  * @author     Richard Clamp <richardc@unixbeard.net> perl version
  * @copyright  2004-2005 Fabien Potencier <fabien.potencier@gmail.com>
  * @copyright  2002 Richard Clamp <richardc@unixbeard.net>
- * @version    SVN: $Id: sfFinder.class.php 32891 2011-08-05 07:48:34Z fabien $
+ * @version    SVN: $Id$
  */
 class sfGlobToRegex
 {
@@ -739,7 +739,7 @@ class sfGlobToRegex
  * @copyright  2004-2005 Fabien Potencier <fabien.potencier@gmail.com>
  * @copyright  2002 Richard Clamp <richardc@unixbeard.net>
  * @see        http://physics.nist.gov/cuu/Units/binary.html
- * @version    SVN: $Id: sfFinder.class.php 32891 2011-08-05 07:48:34Z fabien $
+ * @version    SVN: $Id$
  */
 class sfNumberCompare
 {
